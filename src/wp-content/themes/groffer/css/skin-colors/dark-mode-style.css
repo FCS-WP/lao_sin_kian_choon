@@ -1,0 +1,227 @@
+/**
+* 
+* Dark Mode Styling
+* 
+**/
+
+/* Global Background (#17161A) */
+.archive.woocommerce div#primary,
+.single-post div#primary,
+.single-product div#primary,
+body.page-template,
+body.archive,
+body.search {
+    background: #17161A;
+}
+/* Global Text (#fff) */
+.archive.woocommerce ul.products li.product .archive-product-title a,
+.archive.woocommerce .woocommerce-result-count,
+.archive.woocommerce .sidebar-content .widget-title, 
+.archive.woocommerce .dokan-widget-area .widget-title,
+.archive.woocommerce .widget_price_filter .price_slider_amount .button,
+.archive.woocommerce ul.products.list .product-description p,
+.groffer-breadcrumbs h1,
+.woocommerce nav.woocommerce-pagination ul li a, 
+.woocommerce nav.woocommerce-pagination ul li span,
+.page-template .full-width-part .post-name a,
+.page-template .sidebar-content .widget-title,
+.page-template .widget_groffer_recent_entries_with_thumbnail li a,
+.page-template .pagination .page-numbers,
+.archive .full-width-part .post-name a,
+.archive .sidebar-content .widget-title,
+.archive .widget_groffer_recent_entries_with_thumbnail li a,
+.archive .pagination .page-numbers,
+.search .full-width-part .post-name a,
+.search .sidebar-content .widget-title,
+.search .widget_groffer_recent_entries_with_thumbnail li a,
+.search .pagination .page-numbers,
+body.single-post .article-details h1,
+.single-post .sidebar-content .widget-title, 
+.single-post .dokan-widget-area .widget-title,
+.single-post h3#reply-title.comment-reply-title,
+.single-post p.logged-in-as,
+.single-post .widget_groffer_recent_entries_with_thumbnail li a,
+.single-post .comment-list.comments-area.theme_comments.comments h3.heading-bottom,
+.single-post #comments .comment-author span,
+.archive .widget_search .search-field,
+.search .widget_search .search-field,
+.page-template .widget_search .search-field,
+.groffer-breadcrumbs h1 span,
+.archive.woocommerce .woocommerce.widget_product_search .search-field,
+.single-product .product .product_title,
+.single-product .yith-wcwl-add-button > a i,
+.single-product div.product div.summary a.compare.button,
+.single-product .single-general-info strong,
+.single-product .related.products > h2,
+.single-product ul.products li.product .archive-product-title a,
+.single-product div.product .woocommerce-tabs .panel p,
+.single-product table.shop_attributes th,
+.woocommerce-cart .entry-content h2,
+.woocommerce-cart table.shop_table tr th, 
+.woocommerce-cart .cart-collaterals .cart_totals table th,
+.woocommerce-checkout .woocommerce-billing-fields h3, 
+.woocommerce-checkout #ship-to-different-address, 
+.woocommerce-checkout h3#order_review_heading,
+.woocommerce-checkout .form-row label,
+.woocommerce-checkout .woocommerce-info,
+.woocommerce-checkout form.checkout_coupon p,
+.woocommerce-checkout table.shop_table td,
+.woocommerce-checkout #order_review table th,
+.woocommerce-checkout ul#shipping_method li label,
+.no-results.not-found .page-title:last-child,
+.search h2.page-title,
+.woocommerce div.product form.cart div.quantity .plus, 
+.woocommerce div.product form.cart div.quantity .minus,
+.woocommerce.single-product .quantity .qty{
+    color: #fff;
+}
+.single-product .product_meta > span a,
+.woocommerce-checkout .woocommerce-checkout-review-order-table .amount{
+    color: #fff !important;
+}
+.archive.woocommerce .woocommerce.widget_product_search .search-field,
+.archive.woocommerce .woocommerce-ordering select,
+.groffer-breadcrumbs,
+.archive.woocommerce .widget_product_categories .select2-container--default .select2-selection--single,
+.archive.woocommerce .sidebar-content .tagcloud > a,
+.woocommerce nav.woocommerce-pagination ul li a, 
+.woocommerce nav.woocommerce-pagination ul li span,
+.groffer-shop-sort-group .gridlist-toggle a,
+.page-template .sidebar-content .tagcloud > a,
+.page-template .pagination .page-numbers,
+.archive .sidebar-content .tagcloud > a,
+.archive .pagination .page-numbers,
+.archive .widget_search .search-field,
+.search .sidebar-content .tagcloud > a,
+.search .pagination .page-numbers,
+.search .widget_search .search-field,
+.page-template .widget_search .search-field,
+.single-post .widget_search .search-field,
+.single-post .sidebar-content .tagcloud > a,
+.single-post .comment-form textarea,
+.single-post .comment-form input,
+.single-post .single-post-tags a,
+.single-product div.product .woocommerce-tabs .panel,
+.woocommerce-checkout form .form-row textarea, 
+.woocommerce-checkout form .form-row select, 
+.woocommerce-checkout form .form-row input.input-text, 
+.woocommerce-checkout form .form-row .select2-container--default .select2-selection--single,
+.woocommerce-checkout .woocommerce-info,
+.no-results .search-field,
+.woocommerce div.product form.cart div.quantity .plus, 
+.woocommerce div.product form.cart div.quantity .minus,
+.woocommerce.single-product .quantity .qty,
+.woocommerce div.product form.cart div.quantity{
+    background: #222026;
+}
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle {
+    background: #4b494e !important;
+}
+.archive.woocommerce .sidebar-content .tagcloud > a,
+.archive.woocommerce ul.products.list li.product img,
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle,
+.page-template .sidebar-content .tagcloud > a,
+.archive .sidebar-content .tagcloud > a,
+.search .sidebar-content .tagcloud > a,
+body.single-post .article-details,
+.archive .widget_search .search-field,
+.search .widget_search .search-field,
+.page-template .widget_search .search-field,
+.single-post .widget_search .search-field,
+.single-post .sidebar-content .tagcloud > a,
+.groffer-shop-sort-group,
+.single-post .single-post-tags a,
+.single-post .single-post-tags,
+.single-post .comments-area.comment-list,
+.single-product div.product p.price,
+.single-product .single-general-info,
+.single-product div.product div.images .woocommerce-product-gallery__image:nth-child(n+2),
+.single-product .related.products > h2,
+.single-product div.product .woocommerce-tabs .panel,
+.single-product table.shop_attributes th, 
+.single-product table.shop_attributes td,
+.woocommerce-cart table.shop_table tbody:first-child tr:first-child td, 
+.woocommerce-cart table.shop_table tbody:first-child tr:first-child th,
+.no-results .search-field,
+.woocommerce div.product form.cart div.quantity{
+    border-color: #222026;
+}
+.woocommerce-cart table.shop_table tr td, 
+.woocommerce-cart table.shop_table tr th,
+.woocommerce-cart .cart-collaterals .cart_totals table th,
+.woocommerce-checkout #order_review table th,
+.woocommerce-checkout table.shop_table td,
+.woocommerce.single-product div.product p.price {
+    border-color: #222026 !important;
+}
+.archive.woocommerce .widget_product_categories .select2-selection__rendered,
+.archive.woocommerce .sidebar-content .tagcloud > a,
+.archive.woocommerce .woocommerce-ordering select,
+.archive.woocommerce .price_label,
+.widget_product_categories .select2-container--default .select2-selection--single .select2-selection__placeholder,
+.groffer-breadcrumbs .breadcrumb a,
+.groffer-breadcrumbs .breadcrumb .active,
+.groffer-breadcrumbs .breadcrumb p,
+.breadcrumb a::after,
+.page-template .full-width-part .post-excerpt p,
+.page-template .widget_categories li a,
+.page-template .widget_categories .cat-item,
+.page-template .widget_archive li a,
+.page-template .sidebar-content .tagcloud > a,
+.page-template .post-excerpt,
+.archive .full-width-part .post-excerpt p,
+.archive .widget_categories li a,
+.archive .widget_categories .cat-item,
+.archive .widget_archive li a,
+.archive .sidebar-content .tagcloud > a,
+.archive .post-excerpt,
+.search .full-width-part .post-excerpt p,
+.search .widget_categories li a,
+.search .widget_categories .cat-item,
+.search .widget_archive li a,
+.search .sidebar-content .tagcloud > a,
+.search .post-excerpt,
+.single-post .article-content p,
+.single-post .widget_categories li a,
+.single-post .widget_categories .cat-item,
+.single-post .widget_archive li a,
+.single-post .sidebar-content .tagcloud > a,
+.single-post .comment-form textarea,
+.single-post #comments .comment-content.entry-content p,
+.single-post .single-post-tags span,
+.single-post .single-post-tags a,
+.single-product .product-description p,
+.woocommerce-cart .cart-collaterals .cart_totals .woocommerce-shipping-destination,
+.woocommerce-cart ul#shipping_method li label,
+.woocommerce-cart ul#shipping_method .amount,
+.woocommerce-cart .cart_totals table .order-total td span.amount,
+.woocommerce-cart .cart-collaterals .shipping-calculator-button,
+.woocommerce-checkout form .form-row textarea, 
+.woocommerce-checkout form .form-row select, 
+.woocommerce-checkout form .form-row input.input-text, 
+.woocommerce-checkout form .form-row .select2-container--default .select2-selection--single span,
+.no-results .search-field,
+.article-detail-meta.post-date {
+    color: #8b8b8b !important;
+}
+.full-width-part .more-link:hover,
+#commentform .form-submit button:hover,
+.woocommerce ul.products li.product .bottom-components-list .component.compare a.compare.button,
+.woocommerce a.button:hover,
+.single-product .single-general-info:hover,
+.woocommerce.single-product div.product form.cart .button:hover,
+.woocommerce button.button:hover,
+.no-results input[type="submit"]:hover {
+    background: transparent !important;
+}
+.woocommerce-ordering:after{
+    color:#FF0E1F;
+}
+@media only screen and (max-width: 767px) {
+    header nav {
+        background: #222026 !important;
+    }
+    body .navbar-nav > li > a{
+        color:#fff !important;
+    }
+}

@@ -1,0 +1,3365 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#: inc/shortcodes/vc-shortcodes.inc.php:2737
+#: inc/shortcodes/vc-shortcodes.inc.php:3921
+#: inc/shortcodes/vc-shortcodes.inc.php:4194
+#: inc/shortcodes/vc-shortcodes.inc.php:4211
+#: inc/shortcodes/vc-shortcodes.inc.php:4225
+#: inc/shortcodes/mt-affiliate-reservation/mt-affiliate-reservation.php:88
+#: inc/shortcodes/mt-hosting-affiliate/mt-pricing-tables.php:99
+#: inc/shortcodes/mt-hosting-affiliate/mt-pricing-tables.php:112
+#: inc/shortcodes/mt-hosting-affiliate/mt-pricing-tables.php:122
+#: inc/shortcodes/mt-hosting-affiliate/mt-pricing-tables.php:162
+#: inc/shortcodes/mt-hosting-affiliate/mt-pricing-tables.php:172
+#: inc/shortcodes/mt-hosting-affiliate/mt-pricing-tables.php:182
+#: inc/shortcodes/mt-hosting-affiliate/mt-pricing-tables.php:192
+#: inc/shortcodes/mt-hosting-affiliate/mt-pricing-tables.php:223
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-22 16:47+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: init.php:258
+msgid "Clear"
+msgstr ""
+
+#: init.php:259
+msgid "Default"
+msgstr ""
+
+#: init.php:260
+msgid "Select Color"
+msgstr ""
+
+#: init.php:261
+msgid "Current Color"
+msgstr ""
+
+#: init.php:288
+msgid "Select / Deselect All"
+msgstr ""
+
+#: init.php:1179
+msgid "Save"
+msgstr ""
+
+#: helpers/cmb_Meta_Box_ajax.php:47
+msgid "Please Try Again"
+msgstr ""
+
+#: helpers/cmb_Meta_Box_ajax.php:131
+msgid "Remove Embed"
+msgstr ""
+
+#: helpers/cmb_Meta_Box_ajax.php:134
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: helpers/cmb_Meta_Box_field.php:459
+msgid "Add Group"
+msgstr ""
+
+#: helpers/cmb_Meta_Box_field.php:460
+msgid "Remove Group"
+msgstr ""
+
+#: helpers/cmb_Meta_Box_types.php:250
+msgid "Add Row"
+msgstr ""
+
+#: helpers/cmb_Meta_Box_types.php:306 helpers/cmb_Meta_Box_types.php:706
+#: helpers/cmb_Meta_Box_types.php:768
+#: inc/mega-menu/lib/class.modeltheme-mega-menu.php:204
+msgid "Remove"
+msgstr ""
+
+#: helpers/cmb_Meta_Box_types.php:601 helpers/cmb_Meta_Box_types.php:635
+msgid "No terms"
+msgstr ""
+
+#: helpers/cmb_Meta_Box_types.php:674 helpers/cmb_Meta_Box_types.php:728
+msgid "Add or Upload File"
+msgstr ""
+
+#: helpers/cmb_Meta_Box_types.php:695 helpers/cmb_Meta_Box_types.php:760
+msgid "Remove Image"
+msgstr ""
+
+#: helpers/cmb_Meta_Box_types.php:706 helpers/cmb_Meta_Box_types.php:768
+msgid "File:"
+msgstr ""
+
+#: helpers/cmb_Meta_Box_types.php:706 helpers/cmb_Meta_Box_types.php:768
+msgid "Download"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/extension_wbc_importer.php:183
+msgid "Demo Already Imported"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/extension_wbc_importer.php:216
+#: inc/demo-importer-v2/extensions/wbc_importer/extension_wbc_importer.php:217
+msgid "Demo Importer"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/parsers.php:42
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/parsers.php:72
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/parsers.php:84
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/parsers.php:89
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/parsers.php:315
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/parsers.php:533
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/radium-importer.php:256
+msgid "Theme options Import file could not be found. Please try again."
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/radium-importer.php:331
+msgid "Widget Import file could not be found. Please try again."
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/radium-importer.php:405
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/radium-importer.php:427
+msgid "Site does not support widget"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/radium-importer.php:450
+msgid "Widget already exists"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/radium-importer.php:499
+#: inc/demo-importer-v2/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:116
+msgid "Imported"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/radium-importer.php:502
+msgid "Imported to Inactive"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/radium-importer.php:509
+msgid "No Title"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:132
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:141
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:192
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:196
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:205
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:133
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:176
+msgid "All done."
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:176
+msgid "Have fun!"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:177
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:197
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:213
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:238
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:264
+msgid "Assign Authors"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:265
+msgid ""
+"To make it simpler for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site, such as your primary administrator account."
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:267
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:277
+msgid "Import Attachments"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:280
+msgid "Download and import file attachments"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:284
+msgid "Submit"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:297
+msgid "Import author:"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:309
+msgid "or create new user with login name:"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:312
+msgid "as a new user:"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:322
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:324
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:332
+msgid "- Select -"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:386
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:438
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:483
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:538
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:764
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:631
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:668
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:730
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:904
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:911
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:974
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:987
+msgid "Invalid file type"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:1026
+msgid "Could not create temporary file."
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:1045
+#, php-format
+msgid "Request failed due to an error: %1$s (%2$s)"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:1061
+#, php-format
+msgid "Remote server returned the following unexpected result: %1$s (%2$s)"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:1073
+msgid "Remote server did not respond"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:1080
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:1085
+msgid "Downloaded file has incorrect size"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:1091
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:1123
+msgid "Sorry, this file type is not permitted for security reasons."
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:1138
+msgid "The uploaded file could not be moved"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:1250
+msgid "Import WordPress"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:1257
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:1272
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/inc/importer/wordpress-importer.php:1273
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:93
+#: inc/demo-importer-v2/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:114
+msgid "Import Demo"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:97
+msgid "Demo Imported"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:114
+#: inc/demo-importer-v2/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:117
+msgid "Please Wait..."
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:118
+msgid "Re-Import"
+msgstr ""
+
+#: inc/demo-importer-v2/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:127
+msgid "No Demo Data Provided"
+msgstr ""
+
+#: inc/mega-menu/modeltheme-mega-menu.php:24
+msgid "MT Mega Menus"
+msgstr ""
+
+#: inc/mega-menu/modeltheme-mega-menu.php:25
+#: inc/mega-menu/modeltheme-mega-menu.php:26
+msgid "MT Mega Menu"
+msgstr ""
+
+#: inc/mega-menu/modeltheme-mega-menu.php:27
+msgid "All Mega Menus"
+msgstr ""
+
+#: inc/mega-menu/modeltheme-mega-menu.php:28
+msgid "Add New Mega Menu"
+msgstr ""
+
+#: inc/mega-menu/modeltheme-mega-menu.php:29
+msgid "Edit Mega Menu"
+msgstr ""
+
+#: inc/mega-menu/modeltheme-mega-menu.php:30
+msgid "New Mega Menu"
+msgstr ""
+
+#: inc/mega-menu/modeltheme-mega-menu.php:31
+msgid "View Mega Menu"
+msgstr ""
+
+#: inc/mega-menu/modeltheme-mega-menu.php:32
+msgid "Search Mega Menus"
+msgstr ""
+
+#: inc/mega-menu/modeltheme-mega-menu.php:33
+msgid "No mega menus found"
+msgstr ""
+
+#: inc/mega-menu/modeltheme-mega-menu.php:34
+msgid "No mega menus found in trash"
+msgstr ""
+
+#: inc/mega-menu/modeltheme-mega-menu.php:36
+msgid "A utility post type used to control contents within mega menu dropdowns"
+msgstr ""
+
+#: inc/mega-menu/lib/class.modeltheme-mega-menu.php:58
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: inc/mega-menu/lib/class.modeltheme-mega-menu.php:62
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: inc/mega-menu/lib/class.modeltheme-mega-menu.php:78
+msgid "sub item"
+msgstr ""
+
+#: inc/mega-menu/lib/class.modeltheme-mega-menu.php:93
+msgid "Move up"
+msgstr ""
+
+#: inc/mega-menu/lib/class.modeltheme-mega-menu.php:106
+msgid "Move down"
+msgstr ""
+
+#: inc/mega-menu/lib/class.modeltheme-mega-menu.php:108
+#: inc/mega-menu/lib/class.modeltheme-mega-menu.php:110
+msgid "Edit Menu Item"
+msgstr ""
+
+#: inc/mega-menu/lib/class.modeltheme-mega-menu.php:119
+msgid "URL"
+msgstr ""
+
+#: inc/mega-menu/lib/class.modeltheme-mega-menu.php:126
+msgid "Navigation Label"
+msgstr ""
+
+#: inc/mega-menu/lib/class.modeltheme-mega-menu.php:132
+msgid "Title Attribute"
+msgstr ""
+
+#: inc/mega-menu/lib/class.modeltheme-mega-menu.php:139
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: inc/mega-menu/lib/class.modeltheme-mega-menu.php:144
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: inc/mega-menu/lib/class.modeltheme-mega-menu.php:150
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: inc/mega-menu/lib/class.modeltheme-mega-menu.php:156
+#: inc/shortcodes/vc-shortcodes.inc.php:730
+#: inc/shortcodes/vc-shortcodes.inc.php:766
+#: inc/shortcodes/vc-shortcodes.inc.php:1019
+#: inc/shortcodes/vc-shortcodes.inc.php:1622
+#: inc/shortcodes/vc-shortcodes.inc.php:4507
+msgid "Description"
+msgstr ""
+
+#: inc/mega-menu/lib/class.modeltheme-mega-menu.php:158
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: inc/mega-menu/lib/class.modeltheme-mega-menu.php:164
+msgid "Mega Menu:"
+msgstr ""
+
+#: inc/mega-menu/lib/class.modeltheme-mega-menu.php:169
+msgid "-- None --"
+msgstr ""
+
+#: inc/mega-menu/lib/class.modeltheme-mega-menu.php:173
+msgid "The mega menu to display where mega menus are enabled."
+msgstr ""
+
+#: inc/mega-menu/lib/class.modeltheme-mega-menu.php:179
+msgid "Move"
+msgstr ""
+
+#: inc/mega-menu/lib/class.modeltheme-mega-menu.php:180
+msgid "Up one"
+msgstr ""
+
+#: inc/mega-menu/lib/class.modeltheme-mega-menu.php:181
+msgid "Down one"
+msgstr ""
+
+#: inc/mega-menu/lib/class.modeltheme-mega-menu.php:184
+msgid "To the top"
+msgstr ""
+
+#: inc/mega-menu/lib/class.modeltheme-mega-menu.php:191
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: inc/mega-menu/lib/class.modeltheme-mega-menu.php:205
+msgid "Cancel"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:486
+msgid "Testimonials Custom Options"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:493 inc/metaboxes/metaboxes.php:545
+msgid "Job Position"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:494
+msgid "Enter testimonial author job position"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:499
+msgid "Company"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:500
+msgid "Enter testimonial author company name"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:512
+msgid "Causes Custom Options"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:519
+msgid "Post Tagline"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:520
+msgid "Enter Cause Post Tagline"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:525
+msgid "Target Goal"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:526
+msgid "Enter Cause Goal"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:538
+msgid "Members Custom Options"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:550 inc/shortcodes/vc-shortcodes.inc.php:1347
+msgid "Facebook URL"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:555 inc/shortcodes/vc-shortcodes.inc.php:1356
+msgid "Twitter URL"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:560 inc/shortcodes/vc-shortcodes.inc.php:1374
+msgid "Google Plus URL"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:565
+msgid "instagram URL"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:621
+msgid "Page Custom Options"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:638
+msgid "Rewrite Header Theme Options?"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:639
+msgid "If \"Yes\" - Page Options will rewrite Theme Options"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:643 inc/metaboxes/metaboxes.php:727
+#: inc/sb-google-maps-vc-addon/inc/functions.php:59
+msgid "Yes"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:644 inc/metaboxes/metaboxes.php:728
+#: inc/sb-google-maps-vc-addon/inc/functions.php:60
+msgid "No"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:649
+msgid "Custom Logo"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:650
+msgid "Import a custom logo for this page only"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:668
+msgid "Select Revolution Slider"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:669 inc/metaboxes/metaboxes.php:677
+#: inc/metaboxes/metaboxes.php:702 inc/metaboxes/metaboxes.php:715
+msgid "Select an option"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:676
+msgid "Page title-breadcrumbs"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:681
+msgid "Off - Hide title-breadcrumbs area"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:682
+msgid "On - Show title-breadcrumbs area"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:701
+msgid "Page top/bottom spacing"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:706
+msgid "High Padding"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:707
+msgid "No Padding"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:708
+msgid "No Padding top"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:709
+msgid "No Padding bottom"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:714
+msgid "Select Sidebar"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:722
+msgid "Rewrite Global Page Skin Color Theme Option?"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:723
+msgid "If \"Yes\" - This Page Option will rewrite Theme Options"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:733
+msgid "Global Page Skin Color"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:734 inc/metaboxes/metaboxes.php:741
+msgid "Replaces theme options main color"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:740
+msgid "Global Page Skin Color - Hover"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:756
+msgid "Disable Footer Row #1"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:757
+msgid "Check to disable footer row 1 (if enabled from Theme Options Panel)"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:762
+msgid "Disable Footer Row #2"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:763
+msgid "Check to disable footer row 2 (if enabled from Theme Options Panel)"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:768
+msgid "Disable Footer Row #3"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:769
+msgid "Check to disable footer row 3 (if enabled from Theme Options Panel)"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:774
+msgid "Disable Footer Bottom Bar"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:775
+msgid "Check to disable footer bottom copyright bar"
+msgstr ""
+
+#: inc/post-types/post-types.php:8 inc/post-types/post-types.php:22
+msgid "Testimonials"
+msgstr ""
+
+#: inc/post-types/post-types.php:23
+msgid "Testimonial"
+msgstr ""
+
+#: inc/post-types/post-types.php:24
+msgid "MT Testimonials"
+msgstr ""
+
+#: inc/post-types/post-types.php:25
+msgid "Add Testimonial"
+msgstr ""
+
+#: inc/post-types/post-types.php:26
+msgid "Add New Testimonial"
+msgstr ""
+
+#: inc/post-types/post-types.php:27 inc/post-types/post-types.php:70
+#: inc/post-types/post-types.php:150
+msgid "Edit"
+msgstr ""
+
+#: inc/post-types/post-types.php:28
+msgid "Edit Testimonial"
+msgstr ""
+
+#: inc/post-types/post-types.php:29
+msgid "New Testimonial"
+msgstr ""
+
+#: inc/post-types/post-types.php:30 inc/post-types/post-types.php:31
+msgid "View Testimonial"
+msgstr ""
+
+#: inc/post-types/post-types.php:32
+msgid "Search Testimonials"
+msgstr ""
+
+#: inc/post-types/post-types.php:33
+msgid "No Testimonials Found"
+msgstr ""
+
+#: inc/post-types/post-types.php:34
+msgid "No Testimonials Found in Trash"
+msgstr ""
+
+#: inc/post-types/post-types.php:35
+msgid "Parent Testimonial"
+msgstr ""
+
+#: inc/post-types/post-types.php:51 inc/post-types/post-types.php:65
+msgid "Members"
+msgstr ""
+
+#: inc/post-types/post-types.php:66
+msgid "Member"
+msgstr ""
+
+#: inc/post-types/post-types.php:67
+msgid "MT Members"
+msgstr ""
+
+#: inc/post-types/post-types.php:68
+msgid "Add Member"
+msgstr ""
+
+#: inc/post-types/post-types.php:69
+msgid "Add New Member"
+msgstr ""
+
+#: inc/post-types/post-types.php:71
+msgid "Edit Member"
+msgstr ""
+
+#: inc/post-types/post-types.php:72
+msgid "New Member"
+msgstr ""
+
+#: inc/post-types/post-types.php:73 inc/post-types/post-types.php:74
+msgid "View Member"
+msgstr ""
+
+#: inc/post-types/post-types.php:75
+msgid "Search Members"
+msgstr ""
+
+#: inc/post-types/post-types.php:76
+msgid "No Members Found"
+msgstr ""
+
+#: inc/post-types/post-types.php:77
+msgid "No Members Found in Trash"
+msgstr ""
+
+#: inc/post-types/post-types.php:78
+msgid "Parent Member"
+msgstr ""
+
+#: inc/post-types/post-types.php:94
+msgctxt "Taxonomy General Name"
+msgid "Categories"
+msgstr ""
+
+#: inc/post-types/post-types.php:95
+msgctxt "Taxonomy Singular Name"
+msgid "Members"
+msgstr ""
+
+#: inc/post-types/post-types.php:96
+msgid "Members Categories"
+msgstr ""
+
+#: inc/post-types/post-types.php:97
+msgid "All Items"
+msgstr ""
+
+#: inc/post-types/post-types.php:98
+msgid "Parent Item"
+msgstr ""
+
+#: inc/post-types/post-types.php:99
+msgid "Parent Item:"
+msgstr ""
+
+#: inc/post-types/post-types.php:100
+msgid "New Item Name"
+msgstr ""
+
+#: inc/post-types/post-types.php:101
+msgid "Add New Item"
+msgstr ""
+
+#: inc/post-types/post-types.php:102
+msgid "Edit Item"
+msgstr ""
+
+#: inc/post-types/post-types.php:103
+msgid "Update Item"
+msgstr ""
+
+#: inc/post-types/post-types.php:104
+msgid "View Item"
+msgstr ""
+
+#: inc/post-types/post-types.php:105
+msgid "Separate items with commas"
+msgstr ""
+
+#: inc/post-types/post-types.php:106
+msgid "Add or remove items"
+msgstr ""
+
+#: inc/post-types/post-types.php:107
+msgid "Choose from the most used"
+msgstr ""
+
+#: inc/post-types/post-types.php:108
+msgid "Popular Items"
+msgstr ""
+
+#: inc/post-types/post-types.php:109
+msgid "Search Items"
+msgstr ""
+
+#: inc/post-types/post-types.php:110
+msgid "Not Found"
+msgstr ""
+
+#: inc/post-types/post-types.php:131 inc/post-types/post-types.php:145
+msgid "Clients"
+msgstr ""
+
+#: inc/post-types/post-types.php:146
+msgid "Client"
+msgstr ""
+
+#: inc/post-types/post-types.php:147
+msgid "MT Client"
+msgstr ""
+
+#: inc/post-types/post-types.php:148
+msgid "Add Client"
+msgstr ""
+
+#: inc/post-types/post-types.php:149
+msgid "Add New Client"
+msgstr ""
+
+#: inc/post-types/post-types.php:151
+msgid "Edit Client"
+msgstr ""
+
+#: inc/post-types/post-types.php:152
+msgid "New Client"
+msgstr ""
+
+#: inc/post-types/post-types.php:153 inc/post-types/post-types.php:154
+msgid "View Client"
+msgstr ""
+
+#: inc/post-types/post-types.php:155
+msgid "Search Clients"
+msgstr ""
+
+#: inc/post-types/post-types.php:156
+msgid "No Clients Found"
+msgstr ""
+
+#: inc/post-types/post-types.php:157
+msgid "No Clients Found in Trash"
+msgstr ""
+
+#: inc/post-types/post-types.php:158
+msgid "Parent Client"
+msgstr ""
+
+#: inc/sb-google-maps-vc-addon/inc/functions.php:67
+msgid "Pixels (px)"
+msgstr ""
+
+#: inc/sb-google-maps-vc-addon/inc/functions.php:68
+msgid "Percentage (%)"
+msgstr ""
+
+#: inc/shortcodes/shortcodes.php:403
+#: inc/shortcodes/mt-products-filter/mt-products-filters.php:211
+msgid "Close"
+msgstr ""
+
+#: inc/shortcodes/shortcodes.php:728
+msgid "Customer:"
+msgstr ""
+
+#: inc/shortcodes/shortcodes.php:732
+msgid "Live demo:"
+msgstr ""
+
+#: inc/shortcodes/shortcodes.php:736
+msgid "Skills:"
+msgstr ""
+
+#: inc/shortcodes/shortcodes.php:740
+msgid "Date post:"
+msgstr ""
+
+#: inc/shortcodes/shortcodes.php:972
+#: inc/shortcodes/mt-products-filter/mt-products-filters.php:122
+msgid "Price: "
+msgstr ""
+
+#: inc/shortcodes/shortcodes.php:1092
+msgid "Image"
+msgstr ""
+
+#: inc/shortcodes/shortcodes.php:1093 inc/shortcodes/vc-shortcodes.inc.php:722
+#: inc/shortcodes/vc-shortcodes.inc.php:759
+#: inc/shortcodes/vc-shortcodes.inc.php:1011
+#: inc/shortcodes/vc-shortcodes.inc.php:1093
+#: inc/shortcodes/vc-shortcodes.inc.php:2709
+#: inc/shortcodes/vc-shortcodes.inc.php:2816
+#: inc/shortcodes/vc-shortcodes.inc.php:4419
+#: inc/shortcodes/vc-shortcodes.inc.php:4498
+msgid "Title"
+msgstr ""
+
+#: inc/shortcodes/shortcodes.php:1094
+msgid "SKU"
+msgstr ""
+
+#: inc/shortcodes/shortcodes.php:1095
+msgid "Current Bid"
+msgstr ""
+
+#: inc/shortcodes/shortcodes.php:1096
+msgid "In stock"
+msgstr ""
+
+#: inc/shortcodes/shortcodes.php:1097
+msgid "Place Bid"
+msgstr ""
+
+#: inc/shortcodes/shortcodes.php:1112
+msgid "Bid Now"
+msgstr ""
+
+#: inc/shortcodes/shortcodes.php:1165
+msgid "View All Items"
+msgstr ""
+
+#: inc/shortcodes/shortcodes.php:1171
+msgid "Products"
+msgstr ""
+
+#: inc/shortcodes/shortcodes.php:1210
+msgid "View more"
+msgstr ""
+
+#: inc/shortcodes/shortcodes.php:1259
+msgid " Product in this Category"
+msgstr ""
+
+#: inc/shortcodes/shortcodes.php:1261
+msgid " Products in this Category"
+msgstr ""
+
+#: inc/shortcodes/shortcodes.php:1451 inc/shortcodes/shortcodes.php:1464
+#: inc/shortcodes/shortcodes.php:1480 inc/shortcodes/shortcodes.php:1493
+#: inc/shortcodes/shortcodes.php:1550 inc/shortcodes/shortcodes.php:1567
+#: inc/shortcodes/shortcodes.php:1581
+msgid "VIEW MORE"
+msgstr ""
+
+#: inc/shortcodes/shortcodes.php:1629
+msgid "Shop Now"
+msgstr ""
+
+#: inc/shortcodes/shortcodes.php:1723 inc/shortcodes/shortcodes.php:1762
+#: inc/shortcodes/vc-shortcodes.inc.php:2438
+#: inc/shortcodes/vc-shortcodes.inc.php:4378
+msgid "Read more"
+msgstr ""
+
+#: inc/shortcodes/shortcodes.php:2111
+msgid "groffer - Icon List Group Item"
+msgstr ""
+
+#: inc/shortcodes/shortcodes.php:2113 inc/shortcodes/vc-shortcodes.inc.php:583
+#: inc/shortcodes/vc-shortcodes.inc.php:613
+#: inc/shortcodes/vc-shortcodes.inc.php:706
+#: inc/shortcodes/vc-shortcodes.inc.php:743
+#: inc/shortcodes/vc-shortcodes.inc.php:779
+#: inc/shortcodes/vc-shortcodes.inc.php:834
+#: inc/shortcodes/vc-shortcodes.inc.php:898
+#: inc/shortcodes/vc-shortcodes.inc.php:949
+#: inc/shortcodes/vc-shortcodes.inc.php:995
+#: inc/shortcodes/vc-shortcodes.inc.php:1041
+#: inc/shortcodes/vc-shortcodes.inc.php:1164
+#: inc/shortcodes/vc-shortcodes.inc.php:1298
+#: inc/shortcodes/vc-shortcodes.inc.php:1340
+#: inc/shortcodes/vc-shortcodes.inc.php:1496
+#: inc/shortcodes/vc-shortcodes.inc.php:1545
+#: inc/shortcodes/vc-shortcodes.inc.php:1599
+#: inc/shortcodes/vc-shortcodes.inc.php:1661
+#: inc/shortcodes/vc-shortcodes.inc.php:1693
+#: inc/shortcodes/vc-shortcodes.inc.php:1751
+#: inc/shortcodes/vc-shortcodes.inc.php:1832
+#: inc/shortcodes/vc-shortcodes.inc.php:1886
+#: inc/shortcodes/vc-shortcodes.inc.php:1990
+#: inc/shortcodes/vc-shortcodes.inc.php:2064
+#: inc/shortcodes/vc-shortcodes.inc.php:2246
+#: inc/shortcodes/vc-shortcodes.inc.php:2421
+#: inc/shortcodes/vc-shortcodes.inc.php:2506
+#: inc/shortcodes/vc-shortcodes.inc.php:2610
+#: inc/shortcodes/vc-shortcodes.inc.php:2661
+#: inc/shortcodes/vc-shortcodes.inc.php:2762
+#: inc/shortcodes/vc-shortcodes.inc.php:2828
+#: inc/shortcodes/vc-shortcodes.inc.php:2957
+#: inc/shortcodes/vc-shortcodes.inc.php:3038
+#: inc/shortcodes/vc-shortcodes.inc.php:3195
+#: inc/shortcodes/vc-shortcodes.inc.php:3362
+#: inc/shortcodes/vc-shortcodes.inc.php:3517
+#: inc/shortcodes/vc-shortcodes.inc.php:3561
+#: inc/shortcodes/vc-shortcodes.inc.php:3734
+#: inc/shortcodes/vc-shortcodes.inc.php:3905
+#: inc/shortcodes/vc-shortcodes.inc.php:3945
+#: inc/shortcodes/vc-shortcodes.inc.php:4091
+#: inc/shortcodes/vc-shortcodes.inc.php:4173
+#: inc/shortcodes/vc-shortcodes.inc.php:4247
+#: inc/shortcodes/vc-shortcodes.inc.php:4322
+#: inc/shortcodes/vc-shortcodes.inc.php:4361
+#: inc/shortcodes/vc-shortcodes.inc.php:4404
+#: inc/shortcodes/vc-shortcodes.inc.php:4566
+#: inc/shortcodes/mt-affiliate-amenities/mt-affiliate-amenities.php:56
+#: inc/shortcodes/mt-affiliate-reservation/mt-affiliate-reservation.php:77
+#: inc/shortcodes/mt-course-affiliate/mt-course-categories.php:56
+#: inc/shortcodes/mt-course-affiliate/mt-single-course.php:88
+#: inc/shortcodes/mt-hosting-affiliate/mt-pricing-tables.php:84
+#: inc/shortcodes/mt-hosting-affiliate/mt-search-domain-without-tlds.php:93
+msgid "groffer"
+msgstr ""
+
+#: inc/shortcodes/shortcodes.php:2121
+#: inc/shortcodes/vc-shortcodes.inc.php:1083
+#: inc/shortcodes/vc-shortcodes.inc.php:3981
+#: inc/shortcodes/vc-shortcodes.inc.php:4181
+msgid "Choose image"
+msgstr ""
+
+#: inc/shortcodes/shortcodes.php:2124
+msgid "If you set this, will overwrite the icon setup."
+msgstr ""
+
+#: inc/shortcodes/shortcodes.php:2131
+msgid "Image max width"
+msgstr ""
+
+#: inc/shortcodes/shortcodes.php:2141
+msgid "Image Margin right (px)"
+msgstr ""
+
+#: inc/shortcodes/shortcodes.php:2151
+msgid "Icon Size (px)"
+msgstr ""
+
+#: inc/shortcodes/shortcodes.php:2161
+msgid "Icon Margin right (px)"
+msgstr ""
+
+#: inc/shortcodes/shortcodes.php:2171
+msgid "Icon Color"
+msgstr ""
+
+#: inc/shortcodes/shortcodes.php:2181
+msgid "Icon Hover Color"
+msgstr ""
+
+#: inc/shortcodes/shortcodes.php:2189
+msgid "Label/Title"
+msgstr ""
+
+#: inc/shortcodes/shortcodes.php:2199
+msgid "Label/SubTitle"
+msgstr ""
+
+#: inc/shortcodes/shortcodes.php:2209
+msgid "Label/Icon URL"
+msgstr ""
+
+#: inc/shortcodes/shortcodes.php:2219
+msgid "Title Font Size"
+msgstr ""
+
+#: inc/shortcodes/shortcodes.php:2229
+#: inc/shortcodes/vc-shortcodes.inc.php:1807
+msgid "Title Color"
+msgstr ""
+
+#: inc/shortcodes/shortcodes.php:2239
+msgid "SubTitle Font Size"
+msgstr ""
+
+#: inc/shortcodes/shortcodes.php:2249
+msgid "SubTitle Color"
+msgstr ""
+
+#: inc/shortcodes/shortcodes.php:2478 inc/shortcodes/shortcodes.php:2666
+msgid "Current bid :"
+msgstr ""
+
+#: inc/shortcodes/shortcodes.php:2749
+msgid "Read More"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:581
+msgid "groffer - Testimonials Slider v2"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:590
+msgid "Number of testimonials"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:592 inc/widgets/widgets.php:408
+#: inc/widgets/widgets.php:529
+msgid "5"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:593
+msgid "Enter number of testimonials to show."
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:597
+#: inc/shortcodes/vc-shortcodes.inc.php:632
+#: inc/shortcodes/vc-shortcodes.inc.php:818
+#: inc/shortcodes/vc-shortcodes.inc.php:881
+#: inc/shortcodes/vc-shortcodes.inc.php:933
+#: inc/shortcodes/vc-shortcodes.inc.php:979
+#: inc/shortcodes/vc-shortcodes.inc.php:1025
+#: inc/shortcodes/vc-shortcodes.inc.php:1147
+#: inc/shortcodes/vc-shortcodes.inc.php:1270
+#: inc/shortcodes/vc-shortcodes.inc.php:1324
+#: inc/shortcodes/vc-shortcodes.inc.php:1480
+#: inc/shortcodes/vc-shortcodes.inc.php:1529
+#: inc/shortcodes/vc-shortcodes.inc.php:1644
+#: inc/shortcodes/vc-shortcodes.inc.php:2579
+#: inc/shortcodes/vc-shortcodes.inc.php:3007
+#: inc/shortcodes/vc-shortcodes.inc.php:3501
+#: inc/shortcodes/vc-shortcodes.inc.php:3717
+#: inc/shortcodes/vc-shortcodes.inc.php:3886
+#: inc/shortcodes/vc-shortcodes.inc.php:3927
+#: inc/shortcodes/vc-shortcodes.inc.php:4074
+#: inc/shortcodes/vc-shortcodes.inc.php:4157
+#: inc/shortcodes/vc-shortcodes.inc.php:4231
+#: inc/shortcodes/vc-shortcodes.inc.php:4302
+#: inc/shortcodes/vc-shortcodes.inc.php:4341
+#: inc/shortcodes/mt-hosting-affiliate/mt-pricing-tables.php:198
+#: inc/shortcodes/mt-hosting-affiliate/mt-search-domain-without-tlds.php:149
+msgid "Animation"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:611
+msgid "groffer - Testimonials v1"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:621
+msgid "Testimonial Style"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:642
+msgid "Visible Testimonials per slide"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:645
+msgid "1"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:646
+msgid "2"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:647
+#: inc/shortcodes/vc-shortcodes.inc.php:1896
+#: inc/shortcodes/vc-shortcodes.inc.php:2000
+msgid "3"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:658
+msgid "Testimonials border color"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:670
+msgid "Block Background"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:682
+msgid "Author Title color"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:694
+msgid "Content Text color"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:704
+msgid "groffer - Service icon with text"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:711
+#: inc/shortcodes/vc-shortcodes.inc.php:748
+#: inc/shortcodes/vc-shortcodes.inc.php:1000
+msgid "Icon class(FontAwesome)"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:724
+#: inc/shortcodes/vc-shortcodes.inc.php:1013
+msgid "Graphic Design"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:732
+#: inc/shortcodes/vc-shortcodes.inc.php:1021
+msgid ""
+"Working with us you will work with professional certified designers and "
+"engineers having a vast experience."
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:741
+msgid "groffer - Shop feature"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:777
+msgid "groffer - Alert"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:786
+msgid "Alert style"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:800
+msgid "Is dismissible?"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:812
+msgid "Alert text"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:832
+msgid "groffer - Progress bar"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:841
+msgid "Progress bar scope"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:855
+msgid "Progress bar style"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:867
+#: inc/shortcodes/vc-shortcodes.inc.php:4000
+msgid "Progress bar value (1-100)"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:869
+#: inc/shortcodes/vc-shortcodes.inc.php:4002
+msgid "40"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:875
+msgid "Progress bar label"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:877
+msgid "40% Complete"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:896
+msgid "groffer - Panel"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:907
+msgid "Panel style"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:920
+#: inc/shortcodes/vc-shortcodes.inc.php:921
+msgid "Panel title"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:928
+#: inc/shortcodes/vc-shortcodes.inc.php:929
+msgid "Panel content"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:947
+msgid "groffer - Featured post"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:954
+msgid "Section heading icon"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:965
+#: inc/shortcodes/vc-shortcodes.inc.php:1758
+#: inc/shortcodes/vc-shortcodes.inc.php:1839
+msgid "Section title"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:967
+msgid "Featured blog post"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:973
+msgid "Please type a post ID"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:975
+msgid "138"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:993
+msgid "groffer - Service style2"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1039
+msgid "groffer - Skill counter"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1049
+msgid "Skill media"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1052
+msgid "Choose what you want to use: empty/image/icon"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1066
+#: inc/shortcodes/mt-affiliate-amenities/mt-affiliate-amenities.php:93
+#: inc/shortcodes/mt-course-affiliate/mt-course-categories.php:102
+msgid "Icon class"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1086
+msgid "Choose image for skill"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1102
+msgid "Background Color"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1105
+msgid "Choose background color"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1111
+msgid "Border Color"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1114
+msgid "Choose border color"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1120
+#: inc/shortcodes/vc-shortcodes.inc.php:3001
+msgid "Title color"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1123
+#: inc/shortcodes/vc-shortcodes.inc.php:1964
+#: inc/shortcodes/vc-shortcodes.inc.php:2052
+msgid "Choose text color"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1129
+msgid "Skill value color"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1132
+msgid "Choose skill value color"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1139
+msgid "Skill value"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1162
+msgid "groffer - Pricing table"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1171
+msgid "Package name"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1173
+msgid "BASIC"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1179
+#: inc/shortcodes/mt-hosting-affiliate/mt-pricing-tables.php:130
+msgid "Package price"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1181
+msgid "199"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1187
+#: inc/shortcodes/mt-hosting-affiliate/mt-pricing-tables.php:140
+msgid "Package currency"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1194
+msgid "Package basis"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1201
+msgid "Package Description"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1208
+msgid "Package's 1st feature"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1210
+msgid "05 Email Account"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1216
+msgid "Package's 2nd feature"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1218
+msgid "01 Website Layout"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1224
+msgid "Package's 3rd feature"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1226
+msgid "03 Photo Stock Banner"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1232
+msgid "Package's 4th feature"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1234
+msgid "01 Javascript Slider"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1240
+msgid "Package's 5th feature"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1242
+msgid "01 Hosting"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1248
+msgid "Package's 6th feature"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1250
+msgid "01 Domain Name Server"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1256
+#: inc/shortcodes/mt-hosting-affiliate/mt-pricing-tables.php:150
+msgid "Package button url"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1258
+#: inc/shortcodes/vc-shortcodes.inc.php:1349
+#: inc/shortcodes/vc-shortcodes.inc.php:1358
+#: inc/shortcodes/vc-shortcodes.inc.php:1367
+#: inc/shortcodes/vc-shortcodes.inc.php:1376
+#: inc/shortcodes/vc-shortcodes.inc.php:1385
+#: inc/shortcodes/vc-shortcodes.inc.php:1394
+#: inc/shortcodes/vc-shortcodes.inc.php:1403
+#: inc/shortcodes/vc-shortcodes.inc.php:1412
+#: inc/shortcodes/vc-shortcodes.inc.php:1421
+#: inc/shortcodes/vc-shortcodes.inc.php:1430
+#: inc/shortcodes/vc-shortcodes.inc.php:1439
+#: inc/shortcodes/vc-shortcodes.inc.php:1448
+#: inc/shortcodes/vc-shortcodes.inc.php:1457
+#: inc/shortcodes/vc-shortcodes.inc.php:1466
+#: inc/shortcodes/vc-shortcodes.inc.php:1475
+#: inc/shortcodes/vc-shortcodes.inc.php:1562
+#: inc/shortcodes/vc-shortcodes.inc.php:1608
+#: inc/shortcodes/vc-shortcodes.inc.php:1632
+#: inc/shortcodes/vc-shortcodes.inc.php:2075
+#: inc/shortcodes/vc-shortcodes.inc.php:2101
+#: inc/shortcodes/vc-shortcodes.inc.php:2110
+#: inc/shortcodes/vc-shortcodes.inc.php:2136
+#: inc/shortcodes/vc-shortcodes.inc.php:2145
+#: inc/shortcodes/vc-shortcodes.inc.php:2171
+#: inc/shortcodes/vc-shortcodes.inc.php:2180
+#: inc/shortcodes/vc-shortcodes.inc.php:2206
+#: inc/shortcodes/vc-shortcodes.inc.php:2257
+#: inc/shortcodes/vc-shortcodes.inc.php:2292
+#: inc/shortcodes/vc-shortcodes.inc.php:2301
+#: inc/shortcodes/vc-shortcodes.inc.php:2336
+#: inc/shortcodes/vc-shortcodes.inc.php:2345
+#: inc/shortcodes/vc-shortcodes.inc.php:2380
+#: inc/shortcodes/vc-shortcodes.inc.php:2430
+#: inc/shortcodes/vc-shortcodes.inc.php:2454
+#: inc/shortcodes/vc-shortcodes.inc.php:2728
+#: inc/shortcodes/vc-shortcodes.inc.php:4370
+#: inc/shortcodes/vc-shortcodes.inc.php:4394
+#: inc/shortcodes/vc-shortcodes.inc.php:4413
+#: inc/shortcodes/vc-shortcodes.inc.php:4478
+#: inc/shortcodes/mt-course-affiliate/mt-single-course.php:119
+#: inc/shortcodes/mt-course-affiliate/mt-single-course.php:137
+msgid "#"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1264
+#: inc/shortcodes/mt-hosting-affiliate/mt-pricing-tables.php:160
+msgid "Package button text"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1266
+msgid "Purchase"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1279
+msgid "Recommended?"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1282
+msgid "Simple"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1283
+msgid "Recommended"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1296
+msgid "groffer - Heading with Border"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1303
+#: inc/shortcodes/vc-shortcodes.inc.php:1579
+msgid "Alignment"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1317
+#: inc/shortcodes/vc-shortcodes.inc.php:1614
+#: inc/shortcodes/vc-shortcodes.inc.php:1668
+#: inc/shortcodes/vc-shortcodes.inc.php:1700
+msgid "Heading"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1320
+msgid "Enter your heading."
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1338
+msgid "groffer - Social icons"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1350
+msgid "Enter your facebook link."
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1359
+msgid "Enter your twitter link."
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1365
+msgid "Pinterest URL"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1368
+msgid "Enter your pinterest link."
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1377
+msgid "Enter your Google+ link."
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1383
+msgid "Skype Username"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1386
+msgid "Enter your Skype Username."
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1392
+msgid "Instagram URL"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1395
+msgid "Enter your instagram link."
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1401
+msgid "YouTube URL"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1404
+msgid "Enter your YouTube link."
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1410
+msgid "LinkedIn URL"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1413
+msgid "Enter your linkedin link."
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1419
+msgid "Dribbble URL"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1422
+msgid "Enter your dribbble link."
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1428
+msgid "Deviantart URL"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1431
+msgid "Enter your deviantart link."
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1437
+msgid "Digg URL"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1440
+msgid "Enter your digg link."
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1446
+msgid "Flickr URL"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1449
+msgid "Enter your flickr link."
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1455
+msgid "Stumbleupon URL"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1458
+msgid "Enter your stumbleupon link."
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1464
+msgid "Tumblr URL"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1467
+msgid "Enter your tumblr link."
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1473
+msgid "Vimeo URL"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1476
+msgid "Enter your vimeo link."
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1494
+msgid "groffer - List group"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1503
+#: inc/shortcodes/vc-shortcodes.inc.php:1505
+msgid "List group item heading"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1511
+msgid "List group item description"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1513
+msgid ""
+"Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget "
+"risus varius blandit."
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1517
+msgid "Status"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1520
+msgid "Active"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1521
+msgid "Normal"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1543
+msgid "groffer - Button"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1552
+#: inc/shortcodes/vc-shortcodes.inc.php:1638
+#: inc/shortcodes/vc-shortcodes.inc.php:3107
+#: inc/shortcodes/vc-shortcodes.inc.php:3116
+msgid "Button text"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1554
+msgid "Shop now"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1560
+msgid "Button url"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1566
+msgid "Button size"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1569
+msgid "Small"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1570
+msgid "Medium"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1571
+msgid "Large"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1582
+#: inc/shortcodes/vc-shortcodes.inc.php:1677
+msgid "Left"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1583
+msgid "Center"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1584
+#: inc/shortcodes/vc-shortcodes.inc.php:1678
+msgid "Right"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1597
+msgid "groffer - Thumbnails custom content"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1606
+msgid "Image source url"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1616
+msgid "Thumbnail label"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1624
+msgid ""
+"Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit "
+"non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies "
+"vehicula ut id elit."
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1630
+#: inc/shortcodes/vc-shortcodes.inc.php:4476
+msgid "Button URL"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1640
+msgid "Button"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1659
+msgid "groffer - Heading with bottom border"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1670
+msgid "Our Work"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1674
+msgid "Heading align(left/right)"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1691
+msgid "groffer - Call to Action"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1702
+msgid "groffer Is The Ultimate WordPress Multi-Purpose WordPress Theme!"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1708
+msgid "Heading type"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1724
+msgid "Subheading"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1726
+msgid ""
+"Loaded with awesome features like Visual Composer, premium sliders, "
+"unlimited colors, advanced theme options & more!"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1732
+msgid "Text align"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1735
+msgid "Text align of Title and subtitle"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1749
+msgid "groffer - Section Title and Subtitle"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1766
+msgid "Separator (Optional)"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1767
+msgid "If this option is empty, default theme separator will be applied."
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1774
+#: inc/shortcodes/vc-shortcodes.inc.php:1847
+msgid "Section subtitle"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1776
+#: inc/shortcodes/vc-shortcodes.inc.php:1849
+msgid "We have a lot of opportunities for you. Come check them out!"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1782
+msgid "Disable separator?"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1794
+msgid "Title style"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1820
+msgid "Choose Delimitator color"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1830
+msgid "groffer - Section Title and Subtitle w/ button"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1855
+#: inc/shortcodes/vc-shortcodes.inc.php:3819
+msgid "Button Text"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1864
+#: inc/shortcodes/vc-shortcodes.inc.php:3829
+msgid "Button Link"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1884
+msgid "groffer - Blog Posts"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1894
+#: inc/shortcodes/vc-shortcodes.inc.php:1998
+msgid "Number"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1903
+#: inc/shortcodes/vc-shortcodes.inc.php:2007
+msgid "Select Blog Category"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1905
+#: inc/shortcodes/vc-shortcodes.inc.php:2009
+#: inc/shortcodes/vc-shortcodes.inc.php:2620
+#: inc/shortcodes/vc-shortcodes.inc.php:2671
+#: inc/shortcodes/vc-shortcodes.inc.php:2772
+#: inc/shortcodes/vc-shortcodes.inc.php:2838
+#: inc/shortcodes/vc-shortcodes.inc.php:3225
+#: inc/shortcodes/vc-shortcodes.inc.php:3256
+#: inc/shortcodes/vc-shortcodes.inc.php:3287
+#: inc/shortcodes/vc-shortcodes.inc.php:3318
+#: inc/shortcodes/vc-shortcodes.inc.php:3349
+#: inc/shortcodes/vc-shortcodes.inc.php:3527
+msgid "Please select blog category"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1914
+#: inc/shortcodes/vc-shortcodes.inc.php:2018
+msgid "Columns"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1927
+#: inc/shortcodes/vc-shortcodes.inc.php:2030
+#: inc/shortcodes/vc-shortcodes.inc.php:3372
+msgid "Layout"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1940
+#: inc/shortcodes/vc-shortcodes.inc.php:3125
+msgid "Styles"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1957
+#: inc/shortcodes/vc-shortcodes.inc.php:2044
+msgid "Choose overlay color"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1971
+msgid "Block color"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1978
+msgid "Date color"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:1988
+msgid "groffer - Blog Posts v2"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2062
+msgid "groffer - Masonry Banners"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2073
+#: inc/shortcodes/vc-shortcodes.inc.php:2255
+msgid "#1 Banner Image"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2082
+#: inc/shortcodes/vc-shortcodes.inc.php:2273
+msgid "#1 Banner Title"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2084
+#: inc/shortcodes/vc-shortcodes.inc.php:2275
+msgid "Sofas"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2091
+#: inc/shortcodes/vc-shortcodes.inc.php:2282
+msgid "#1 Banner Subtitle"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2099
+#: inc/shortcodes/vc-shortcodes.inc.php:2290
+msgid "#1 Banner Link"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2108
+#: inc/shortcodes/vc-shortcodes.inc.php:2299
+msgid "#2 Banner Image"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2117
+#: inc/shortcodes/vc-shortcodes.inc.php:2317
+msgid "#2 Banner Title"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2119
+#: inc/shortcodes/vc-shortcodes.inc.php:2319
+msgid "Beds"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2126
+#: inc/shortcodes/vc-shortcodes.inc.php:2326
+msgid "#2 Banner Subtitle"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2134
+#: inc/shortcodes/vc-shortcodes.inc.php:2334
+msgid "#2 Banner Link"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2143
+#: inc/shortcodes/vc-shortcodes.inc.php:2343
+msgid "#3 Banner Image"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2152
+#: inc/shortcodes/vc-shortcodes.inc.php:2361
+msgid "#3 Banner Title"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2154
+#: inc/shortcodes/vc-shortcodes.inc.php:2189
+#: inc/shortcodes/vc-shortcodes.inc.php:2363
+msgid "Chairs"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2161
+#: inc/shortcodes/vc-shortcodes.inc.php:2370
+msgid "#3 Banner Subtitle"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2169
+#: inc/shortcodes/vc-shortcodes.inc.php:2378
+msgid "#3 Banner Link"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2178
+msgid "#4 Banner Image"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2187
+msgid "#4 Banner Title"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2196
+msgid "#4 Banner Subtitle"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2204
+msgid "#4 Banner Link"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2213
+#: inc/shortcodes/vc-shortcodes.inc.php:2388
+msgid "Default skin background color"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2221
+#: inc/shortcodes/vc-shortcodes.inc.php:2396
+msgid "Dark skin background color"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2229
+#: inc/shortcodes/vc-shortcodes.inc.php:2404
+msgid "Button Style"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2244
+msgid "groffer - Domain Masonry Banners (Hosting)"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2264
+msgid "#1 Banner Prefix"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2266
+#: inc/shortcodes/vc-shortcodes.inc.php:2310
+#: inc/shortcodes/vc-shortcodes.inc.php:2354
+msgid ".eu"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2308
+msgid "#2 Banner Prefix"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2352
+msgid "#3 Banner Prefix"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2419
+msgid "groffer - Sale Banner"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2428
+#: inc/shortcodes/vc-shortcodes.inc.php:2718
+#: inc/shortcodes/vc-shortcodes.inc.php:4368
+msgid "Banner Image"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2436
+#: inc/shortcodes/vc-shortcodes.inc.php:4376
+msgid "Banner Title"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2444
+#: inc/shortcodes/vc-shortcodes.inc.php:4384
+msgid "Banner Subtitle"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2446
+#: inc/shortcodes/vc-shortcodes.inc.php:4386
+msgid "9 products"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2452
+#: inc/shortcodes/vc-shortcodes.inc.php:4392
+msgid "Banner url"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2460
+msgid "Title Position"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2474
+msgid "Color Style"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2504
+msgid "groffer - Product Filters"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2514
+#: inc/shortcodes/vc-shortcodes.inc.php:3385
+#: inc/shortcodes/vc-shortcodes.inc.php:3601
+msgid "Number of products"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2517
+msgid "Enter number of products post to show."
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2524
+msgid "Select Products Attributes"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2526
+msgid ""
+"The selected attributes will be used to filter the products from the left "
+"side"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2535
+msgid "Show all products?"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2547
+msgid "Search placeholder"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2550
+msgid "Set the search placeholder.(e.g 'Search Products')"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2556
+msgid "Enable or disable search on filter sidebar"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2564
+msgid "Enable or disable categories on filter sidebar"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2572
+msgid "Enable or disable tags on filter sidebar"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2608
+msgid "groffer - Products List"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2618
+#: inc/shortcodes/vc-shortcodes.inc.php:2669
+#: inc/shortcodes/vc-shortcodes.inc.php:2770
+#: inc/shortcodes/vc-shortcodes.inc.php:2836
+#: inc/shortcodes/vc-shortcodes.inc.php:2887
+#: inc/shortcodes/vc-shortcodes.inc.php:3046
+#: inc/shortcodes/vc-shortcodes.inc.php:3223
+#: inc/shortcodes/vc-shortcodes.inc.php:3254
+#: inc/shortcodes/vc-shortcodes.inc.php:3285
+#: inc/shortcodes/vc-shortcodes.inc.php:3316
+#: inc/shortcodes/vc-shortcodes.inc.php:3347
+#: inc/shortcodes/vc-shortcodes.inc.php:3525
+#: inc/shortcodes/vc-shortcodes.inc.php:3569
+msgid "Select Products Category"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2629
+#: inc/shortcodes/vc-shortcodes.inc.php:2680
+#: inc/shortcodes/vc-shortcodes.inc.php:2847
+msgid "Number of categories to show"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2637
+#: inc/shortcodes/vc-shortcodes.inc.php:2688
+#: inc/shortcodes/vc-shortcodes.inc.php:2795
+#: inc/shortcodes/vc-shortcodes.inc.php:2855
+#: inc/shortcodes/vc-shortcodes.inc.php:3071
+#: inc/shortcodes/vc-shortcodes.inc.php:3550
+msgid "Number of products to show for each category"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2645
+#: inc/shortcodes/vc-shortcodes.inc.php:2696
+#: inc/shortcodes/vc-shortcodes.inc.php:2803
+#: inc/shortcodes/vc-shortcodes.inc.php:2863
+#: inc/shortcodes/vc-shortcodes.inc.php:3079
+msgid "Show categories without products?"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2659
+msgid "groffer - Products w/ Banners"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2710
+#: inc/shortcodes/vc-shortcodes.inc.php:2817
+msgid "Set a title or leave empty to not show it."
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2726
+msgid "Banner URL"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2735
+msgid "Banner Text"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2744
+#: inc/shortcodes/vc-shortcodes.inc.php:3180
+msgid "Banner Position"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2760
+msgid "groffer - Category Products (Envato Items)"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2781
+#: inc/shortcodes/vc-shortcodes.inc.php:2906
+#: inc/shortcodes/vc-shortcodes.inc.php:3092
+#: inc/shortcodes/vc-shortcodes.inc.php:3536
+#: inc/shortcodes/vc-shortcodes.inc.php:3588
+msgid "Products per column"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2826
+msgid "groffer - Products Grid"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2877
+msgid "groffer - Products Styled"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2879
+msgid "groffer"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2889
+#: inc/shortcodes/vc-shortcodes.inc.php:3048
+#: inc/shortcodes/vc-shortcodes.inc.php:3571
+msgid "Please select WooCommerce Category"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2898
+#: inc/shortcodes/vc-shortcodes.inc.php:3580
+msgid "Number of products to show"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2920
+msgid "Block background"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2927
+msgid "Product Title color"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2955
+msgid "groffer - Products Category Image"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2965
+msgid "Select Listing Base Category Slug"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2967
+#: inc/shortcodes/vc-shortcodes.inc.php:2978
+msgid "Please select listing base category"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2976
+msgid "Select Listing Base Category Title"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:2987
+msgid "Layout Version"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3036
+msgid "groffer - Products by Category v2"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3057
+msgid "Products Layout"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3109
+msgid "A text to replace the 'View all items' button text"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3118
+msgid "A text to replace the 'Products' label"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3139
+msgid "Button Styles"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3152
+msgid "Background Banner Color 1"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3155
+#: inc/shortcodes/vc-shortcodes.inc.php:3164
+msgid "Choose banner color"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3161
+msgid "Background Banner Color 2"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3171
+msgid "Background Image (Optional)"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3172
+msgid "If this option is empty, the colors from colorpickers will be applied."
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3193
+msgid "groffer - Tabs categories"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3204
+#: inc/shortcodes/vc-shortcodes.inc.php:3235
+#: inc/shortcodes/vc-shortcodes.inc.php:3266
+#: inc/shortcodes/vc-shortcodes.inc.php:3297
+#: inc/shortcodes/vc-shortcodes.inc.php:3328
+msgid "Choose icon"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3207
+#: inc/shortcodes/vc-shortcodes.inc.php:3238
+#: inc/shortcodes/vc-shortcodes.inc.php:3269
+msgid "Choose icon for first category"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3215
+msgid "Title of column1"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3216
+msgid "Enter title of column1"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3246
+msgid "Title of column2"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3247
+msgid "Enter title of column2"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3277
+msgid "Title of column3"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3278
+msgid "Enter title of column3"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3300
+msgid "Choose Fourth for first category"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3308
+msgid "Title of column4"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3309
+msgid "Enter title of column4"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3331
+msgid "Choose icon for Fifth category"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3339
+msgid "Title of column5"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3340
+msgid "Enter title of column5"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3360
+msgid "groffer - Products Slider"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3375
+msgid "Select"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3376
+msgid "Top Image"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3377
+msgid "Vertical"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3388
+#: inc/shortcodes/vc-shortcodes.inc.php:3604
+msgid "Enter number of products to show."
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3397
+#: inc/shortcodes/vc-shortcodes.inc.php:3613
+#: inc/shortcodes/vc-shortcodes.inc.php:3754
+msgid "Order options"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3398
+#: inc/shortcodes/vc-shortcodes.inc.php:3614
+#: inc/shortcodes/vc-shortcodes.inc.php:3755
+msgid "Order ascending or descending by date"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3400
+#: inc/shortcodes/vc-shortcodes.inc.php:3616
+#: inc/shortcodes/vc-shortcodes.inc.php:3757
+msgid "Ascending"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3401
+#: inc/shortcodes/vc-shortcodes.inc.php:3617
+#: inc/shortcodes/vc-shortcodes.inc.php:3758
+msgid "Descending"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3412
+#: inc/shortcodes/vc-shortcodes.inc.php:3628
+#: inc/shortcodes/vc-shortcodes.inc.php:3769
+msgid "Navigation"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3415
+#: inc/shortcodes/vc-shortcodes.inc.php:3429
+#: inc/shortcodes/vc-shortcodes.inc.php:3443
+#: inc/shortcodes/vc-shortcodes.inc.php:3631
+#: inc/shortcodes/vc-shortcodes.inc.php:3645
+#: inc/shortcodes/vc-shortcodes.inc.php:3659
+#: inc/shortcodes/vc-shortcodes.inc.php:3772
+#: inc/shortcodes/vc-shortcodes.inc.php:3786
+#: inc/shortcodes/vc-shortcodes.inc.php:3800
+msgid "Disabled"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3416
+#: inc/shortcodes/vc-shortcodes.inc.php:3430
+#: inc/shortcodes/vc-shortcodes.inc.php:3444
+#: inc/shortcodes/vc-shortcodes.inc.php:3632
+#: inc/shortcodes/vc-shortcodes.inc.php:3646
+#: inc/shortcodes/vc-shortcodes.inc.php:3660
+#: inc/shortcodes/vc-shortcodes.inc.php:3773
+#: inc/shortcodes/vc-shortcodes.inc.php:3787
+#: inc/shortcodes/vc-shortcodes.inc.php:3801
+msgid "Enabled"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3426
+#: inc/shortcodes/vc-shortcodes.inc.php:3642
+#: inc/shortcodes/vc-shortcodes.inc.php:3783
+msgid "Pagination"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3440
+#: inc/shortcodes/vc-shortcodes.inc.php:3656
+#: inc/shortcodes/vc-shortcodes.inc.php:3797
+msgid "Auto Play"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3452
+#: inc/shortcodes/vc-shortcodes.inc.php:3668
+#: inc/shortcodes/vc-shortcodes.inc.php:3809
+msgid "Pagination Speed"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3455
+#: inc/shortcodes/vc-shortcodes.inc.php:3671
+#: inc/shortcodes/vc-shortcodes.inc.php:3812
+msgid "Pagination Speed(Default: 700)"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3463
+#: inc/shortcodes/vc-shortcodes.inc.php:3679
+#: inc/shortcodes/vc-shortcodes.inc.php:3848
+msgid "Slide Speed"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3466
+#: inc/shortcodes/vc-shortcodes.inc.php:3682
+#: inc/shortcodes/vc-shortcodes.inc.php:3851
+msgid "Slide Speed(Default: 700)"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3473
+#: inc/shortcodes/vc-shortcodes.inc.php:3689
+#: inc/shortcodes/vc-shortcodes.inc.php:3858
+msgid "Items for Desktops"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3476
+#: inc/shortcodes/vc-shortcodes.inc.php:3692
+#: inc/shortcodes/vc-shortcodes.inc.php:3861
+msgid "Default - 4"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3483
+#: inc/shortcodes/vc-shortcodes.inc.php:3699
+#: inc/shortcodes/vc-shortcodes.inc.php:3868
+msgid "Items for Tablets"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3486
+#: inc/shortcodes/vc-shortcodes.inc.php:3702
+#: inc/shortcodes/vc-shortcodes.inc.php:3871
+msgid "Default - 2"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3493
+#: inc/shortcodes/vc-shortcodes.inc.php:3709
+#: inc/shortcodes/vc-shortcodes.inc.php:3878
+msgid "Items for Mobile"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3496
+#: inc/shortcodes/vc-shortcodes.inc.php:3712
+#: inc/shortcodes/vc-shortcodes.inc.php:3881
+msgid "Default - 1"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3515
+msgid "groffer - Latest Themes Boxed (Envato Items)"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3559
+msgid "groffer - Products Carousel"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3732
+msgid "groffer - Members Slider"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3742
+msgid "Number of members"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3745
+msgid "Enter number of members to show."
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3822
+msgid "Enter button text"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3832
+msgid "Enter button link"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3838
+msgid "Button Background Color"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3841
+msgid "Choose button color"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3903
+msgid "groffer - CountDown Version 2"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3910
+#: inc/shortcodes/vc-shortcodes.inc.php:4295
+#: inc/shortcodes/vc-shortcodes.inc.php:4334
+#: inc/shortcodes/vc-shortcodes.inc.php:4540
+msgid "Extra class name"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3912
+#: inc/shortcodes/vc-shortcodes.inc.php:4297
+#: inc/shortcodes/vc-shortcodes.inc.php:4336
+#: inc/shortcodes/vc-shortcodes.inc.php:4542
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3919
+msgid "Date"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3943
+msgid "groffer - Featured Simple Product"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3953
+msgid "Write Product ID"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3956
+msgid "Enter product ID"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3963
+msgid "Choose featured image"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3966
+msgid "Choose between the product image and custom."
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3990
+msgid "Write Progress Bar Title"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:3993
+msgid "Enter Subtitle Product"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4008
+msgid "Progress Bar background color"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4010
+#: inc/shortcodes/vc-shortcodes.inc.php:4027
+msgid "Pick the background color"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4017
+msgid "Set end date"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4019
+msgid "Example : mm/dd/yyyy"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4025
+msgid "Countdown background color"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4033
+msgid "Countdown Text color"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4035
+msgid "Pick the text color"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4042
+msgid "Write Countdown subtitle"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4049
+msgid "Product category color"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4057
+msgid "Product name color"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4060
+msgid "Pick the color for product name"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4066
+msgid "Product price color"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4069
+msgid "Pick the color for price"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4089
+msgid "groffer - Typed Text"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4099
+msgid "Texts"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4109
+msgid "Font Size"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4119
+msgid "Before text"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4129
+msgid "After text"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4139
+msgid "Type Speed"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4149
+msgid "Time Before Backspacing"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4171
+msgid "groffer - Video"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4184
+msgid "Choose image for play button"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4191
+msgid "Video source"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4209
+msgid "Vimeo id link"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4223
+msgid "Youtube id link"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4245
+msgid "groffer - Products Search"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4255
+msgid "With type"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4258
+msgid "Please choose the with type"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4260
+msgid "Boxed"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4261
+msgid "Full width"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4269
+msgid "Style Variant"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4274
+msgid "Style 1"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4275
+msgid "Style 2"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4283
+msgid "Popular Searches"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4288
+msgid "On / Show"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4289
+msgid "Off / Hide"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4317
+msgid "groffer - Map Pins"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4327
+msgid "Background"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4359
+msgid "groffer - Custom Images with Links"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4402
+msgid "groffer - Affiliate Hotel (Travel Affiliates)"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4411
+msgid "Hotel Image"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4426
+msgid "Subtitle"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4433
+msgid "Location"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4435
+msgid "City, Country"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4442
+#: inc/shortcodes/mt-course-affiliate/mt-single-course.php:152
+msgid "Rating"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4443
+#: inc/shortcodes/mt-course-affiliate/mt-single-course.php:153
+msgid "Enter title for current rate item."
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4445
+#: inc/shortcodes/mt-course-affiliate/mt-single-course.php:155
+msgid "No rated"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4446
+#: inc/shortcodes/mt-course-affiliate/mt-single-course.php:156
+msgid "10%"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4447
+#: inc/shortcodes/mt-course-affiliate/mt-single-course.php:157
+msgid "20%"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4448
+#: inc/shortcodes/mt-course-affiliate/mt-single-course.php:158
+msgid "30%"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4449
+#: inc/shortcodes/mt-course-affiliate/mt-single-course.php:159
+msgid "40%"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4450
+#: inc/shortcodes/mt-course-affiliate/mt-single-course.php:160
+msgid "50%"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4451
+#: inc/shortcodes/mt-course-affiliate/mt-single-course.php:161
+msgid "60%"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4452
+#: inc/shortcodes/mt-course-affiliate/mt-single-course.php:162
+msgid "70%"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4453
+#: inc/shortcodes/mt-course-affiliate/mt-single-course.php:163
+msgid "80%"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4454
+#: inc/shortcodes/mt-course-affiliate/mt-single-course.php:164
+msgid "90%"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4455
+#: inc/shortcodes/mt-course-affiliate/mt-single-course.php:165
+msgid "100%"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4462
+msgid "Affiliate Website"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4465
+msgid "Choose between the website to set an icon"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4486
+msgid "Map Single Point"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4499
+msgid "Enter title for current menu item(Eg: Italian Pizza)"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4508
+msgid ""
+"Enter title for current menu item(Eg: 30x30cm with cheese, onion rings, "
+"olives and tomatoes)"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4515
+msgid "Thumbnail"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4525
+msgid "Coordinates on x axis"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4526
+msgid "Enter coordinates on x axis in percentange"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4534
+msgid "Coordinates on y axis"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4535
+msgid "Enter coordinates on y axis in percentange"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4560
+msgid "MT - Mega Menu"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4571
+#: inc/shortcodes/vc-shortcodes.inc.php:4591
+msgid "Options"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4575
+msgid "Heading title"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4584
+msgid "MT - Mega Menu Item"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4595
+msgid "Set ID Menu"
+msgstr ""
+
+#: inc/shortcodes/vc-shortcodes.inc.php:4598
+msgid "Check Appearences > Menus to find the ID for the desired menu."
+msgstr ""
+
+#: inc/shortcodes/mt-affiliate-amenities/mt-affiliate-amenities.php:13
+msgid "Amenities"
+msgstr ""
+
+#: inc/shortcodes/mt-affiliate-amenities/mt-affiliate-amenities.php:50
+msgid "groffer - Affiliate Amenities (Travel Affiliates)"
+msgstr ""
+
+#: inc/shortcodes/mt-affiliate-amenities/mt-affiliate-amenities.php:64
+#: inc/shortcodes/mt-course-affiliate/mt-course-categories.php:64
+#: inc/shortcodes/mt-course-affiliate/mt-single-course.php:96
+msgid "Number of columns"
+msgstr ""
+
+#: inc/shortcodes/mt-affiliate-amenities/mt-affiliate-amenities.php:76
+msgid "Affiliate Amenity"
+msgstr ""
+
+#: inc/shortcodes/mt-affiliate-amenities/mt-affiliate-amenities.php:86
+#: inc/shortcodes/mt-course-affiliate/mt-course-categories.php:86
+msgid "Set additional title"
+msgstr ""
+
+#: inc/shortcodes/mt-affiliate-reservation/mt-affiliate-reservation.php:15
+msgid "Number of People"
+msgstr ""
+
+#: inc/shortcodes/mt-affiliate-reservation/mt-affiliate-reservation.php:16
+msgid "Room"
+msgstr ""
+
+#: inc/shortcodes/mt-affiliate-reservation/mt-affiliate-reservation.php:17
+msgid "Price"
+msgstr ""
+
+#: inc/shortcodes/mt-affiliate-reservation/mt-affiliate-reservation.php:18
+msgid "Book"
+msgstr ""
+
+#: inc/shortcodes/mt-affiliate-reservation/mt-affiliate-reservation.php:59
+msgid "Book Now"
+msgstr ""
+
+#: inc/shortcodes/mt-affiliate-reservation/mt-affiliate-reservation.php:71
+msgid "groffer - Affiliate Reservations (Travel Affiliates)"
+msgstr ""
+
+#: inc/shortcodes/mt-affiliate-reservation/mt-affiliate-reservation.php:85
+msgid "Extra Class"
+msgstr ""
+
+#: inc/shortcodes/mt-affiliate-reservation/mt-affiliate-reservation.php:94
+msgid "Affiliate Reservation"
+msgstr ""
+
+#: inc/shortcodes/mt-affiliate-reservation/mt-affiliate-reservation.php:102
+msgid "Room Capacity"
+msgstr ""
+
+#: inc/shortcodes/mt-affiliate-reservation/mt-affiliate-reservation.php:118
+msgid "Set Room Title"
+msgstr ""
+
+#: inc/shortcodes/mt-affiliate-reservation/mt-affiliate-reservation.php:127
+msgid "Small Description"
+msgstr ""
+
+#: inc/shortcodes/mt-affiliate-reservation/mt-affiliate-reservation.php:136
+msgid "Set Price"
+msgstr ""
+
+#: inc/shortcodes/mt-affiliate-reservation/mt-affiliate-reservation.php:145
+msgid "Affiliate Link"
+msgstr ""
+
+#: inc/shortcodes/mt-course-affiliate/mt-course-categories.php:50
+msgid "groffer - Course Categories (Course Affiliates)"
+msgstr ""
+
+#: inc/shortcodes/mt-course-affiliate/mt-course-categories.php:76
+msgid "Single Category"
+msgstr ""
+
+#: inc/shortcodes/mt-course-affiliate/mt-course-categories.php:95
+msgid "Set additional link"
+msgstr ""
+
+#: inc/shortcodes/mt-course-affiliate/mt-single-course.php:56
+msgid " / month"
+msgstr ""
+
+#: inc/shortcodes/mt-course-affiliate/mt-single-course.php:60
+msgid "Course Level :"
+msgstr ""
+
+#: inc/shortcodes/mt-course-affiliate/mt-single-course.php:63
+msgid "Subject :"
+msgstr ""
+
+#: inc/shortcodes/mt-course-affiliate/mt-single-course.php:66
+msgid "Language :"
+msgstr ""
+
+#: inc/shortcodes/mt-course-affiliate/mt-single-course.php:82
+msgid "groffer - Courses Grid (Course Affiliates)"
+msgstr ""
+
+#: inc/shortcodes/mt-course-affiliate/mt-single-course.php:108
+msgid "Single Course"
+msgstr ""
+
+#: inc/shortcodes/mt-course-affiliate/mt-single-course.php:117
+msgid "Course Image"
+msgstr ""
+
+#: inc/shortcodes/mt-course-affiliate/mt-single-course.php:126
+msgid "Set course title"
+msgstr ""
+
+#: inc/shortcodes/mt-course-affiliate/mt-single-course.php:135
+msgid "Course Link"
+msgstr ""
+
+#: inc/shortcodes/mt-course-affiliate/mt-single-course.php:143
+msgid "Course Price"
+msgstr ""
+
+#: inc/shortcodes/mt-course-affiliate/mt-single-course.php:145
+msgid "$25"
+msgstr ""
+
+#: inc/shortcodes/mt-course-affiliate/mt-single-course.php:172
+msgid "Course Difficulty"
+msgstr ""
+
+#: inc/shortcodes/mt-course-affiliate/mt-single-course.php:179
+msgid "Course Subject"
+msgstr ""
+
+#: inc/shortcodes/mt-course-affiliate/mt-single-course.php:186
+msgid "Course Language"
+msgstr ""
+
+#: inc/shortcodes/mt-envato-affiliate/mt-products-grid.php:61
+#: inc/shortcodes/mt-envato-affiliate/mt-themes-categories.php:121
+msgid "by "
+msgstr ""
+
+#: inc/shortcodes/mt-envato-affiliate/mt-products-grid.php:62
+#: inc/shortcodes/mt-envato-affiliate/mt-themes-categories.php:122
+msgid " sales"
+msgstr ""
+
+#: inc/shortcodes/mt-envato-affiliate/mt-products-grid.php:64
+#: inc/shortcodes/mt-envato-affiliate/mt-themes-categories.php:125
+msgid "View item"
+msgstr ""
+
+#: inc/shortcodes/mt-hosting-affiliate/mt-pricing-tables.php:78
+msgid "groffer - Pricing tables (Hosting)"
+msgstr ""
+
+#: inc/shortcodes/mt-hosting-affiliate/mt-pricing-tables.php:96
+msgid "Package Recommended"
+msgstr ""
+
+#: inc/shortcodes/mt-hosting-affiliate/mt-pricing-tables.php:110
+msgid "Package Text"
+msgstr ""
+
+#: inc/shortcodes/mt-hosting-affiliate/mt-pricing-tables.php:120
+msgid "Package per feature"
+msgstr ""
+
+#: inc/shortcodes/mt-hosting-affiliate/mt-pricing-tables.php:170
+msgid "Box background color"
+msgstr ""
+
+#: inc/shortcodes/mt-hosting-affiliate/mt-pricing-tables.php:180
+msgid "Content color"
+msgstr ""
+
+#: inc/shortcodes/mt-hosting-affiliate/mt-pricing-tables.php:190
+msgid "Recomended color"
+msgstr ""
+
+#: inc/shortcodes/mt-hosting-affiliate/mt-pricing-tables.php:210
+msgid "Pricing tables Item"
+msgstr ""
+
+#: inc/shortcodes/mt-hosting-affiliate/mt-pricing-tables.php:221
+msgid "Package's feature"
+msgstr ""
+
+#: inc/shortcodes/mt-hosting-affiliate/mt-pricing-tables.php:229
+msgid "Package's feature icon"
+msgstr ""
+
+#: inc/shortcodes/mt-hosting-affiliate/mt-search-domain-without-tlds.php:91
+msgid "groffer - Domains Search Form (Hosting)"
+msgstr ""
+
+#: inc/shortcodes/mt-hosting-affiliate/mt-search-domain-without-tlds.php:99
+msgid "Select the Affiliate Hosting Program"
+msgstr ""
+
+#: inc/shortcodes/mt-hosting-affiliate/mt-search-domain-without-tlds.php:102
+msgid "Select Hosting"
+msgstr ""
+
+#: inc/shortcodes/mt-hosting-affiliate/mt-search-domain-without-tlds.php:103
+msgid "GoDaddy"
+msgstr ""
+
+#: inc/shortcodes/mt-hosting-affiliate/mt-search-domain-without-tlds.php:104
+msgid "BlueHost"
+msgstr ""
+
+#: inc/shortcodes/mt-hosting-affiliate/mt-search-domain-without-tlds.php:105
+msgid "SiteGround"
+msgstr ""
+
+#: inc/shortcodes/mt-hosting-affiliate/mt-search-domain-without-tlds.php:106
+msgid "Advanced"
+msgstr ""
+
+#: inc/shortcodes/mt-hosting-affiliate/mt-search-domain-without-tlds.php:121
+msgid "Include the Path to other Hostings"
+msgstr ""
+
+#: inc/shortcodes/mt-hosting-affiliate/mt-search-domain-without-tlds.php:124
+msgid "For the ones that are not included in the dropdown"
+msgstr ""
+
+#: inc/shortcodes/mt-hosting-affiliate/mt-search-domain-without-tlds.php:131
+msgid "Affiliate Path"
+msgstr ""
+
+#: inc/shortcodes/mt-hosting-affiliate/mt-search-domain-without-tlds.php:134
+msgid "Example : affiliate_43423"
+msgstr ""
+
+#: inc/shortcodes/mt-hosting-affiliate/mt-search-domain-without-tlds.php:141
+msgid "Input placeholder text"
+msgstr ""
+
+#: inc/shortcodes/mt-mega-menu/mt-mega-menu.php:41
+msgid "385"
+msgstr ""
+
+#: inc/shortcodes/mt-products-banner/mt-products-banner.php:173
+msgid "Compare"
+msgstr ""
+
+#: inc/shortcodes/mt-products-banner/mt-products-banner.php:184
+msgid ""
+"<strong>This category doesn't exist or it has no products!</strong> Edit the "
+"page and set an existing category from the builder."
+msgstr ""
+
+#: inc/shortcodes/mt-products-filter/mt-products-filters.php:46
+msgid "All"
+msgstr ""
+
+#: inc/shortcodes/mt-products-filter/mt-products-filters.php:47
+msgid "All "
+msgstr ""
+
+#: inc/shortcodes/mt-products-filter/mt-products-filters.php:131
+msgid "No results found"
+msgstr ""
+
+#: inc/shortcodes/mt-products-filter/mt-products-filters.php:140
+msgid "Search"
+msgstr ""
+
+#: inc/shortcodes/mt-products-filter/mt-products-filters.php:145
+msgid "Search..."
+msgstr ""
+
+#: inc/shortcodes/mt-products-filter/mt-products-filters.php:183
+msgid "Categories"
+msgstr ""
+
+#: inc/shortcodes/mt-products-filter/mt-products-filters.php:198
+msgid "Most used Tags"
+msgstr ""
+
+#: inc/shortcodes/mt-products-filter/mt-products-filters.php:214
+msgid "Filters"
+msgstr ""
+
+#: inc/widgets/widgets.php:11
+msgid "groffer - Social icons widget"
+msgstr ""
+
+#: inc/widgets/widgets.php:96 inc/widgets/widgets.php:230
+msgid "Social icons"
+msgstr ""
+
+#: inc/widgets/widgets.php:102 inc/widgets/widgets.php:236
+#: inc/widgets/widgets.php:307 inc/widgets/widgets.php:414
+#: inc/widgets/widgets.php:535
+msgid "Widget Title:"
+msgstr ""
+
+#: inc/widgets/widgets.php:105 inc/widgets/widgets.php:239
+msgid "* Social Network account must be set from groffer - Theme Panel."
+msgstr ""
+
+#: inc/widgets/widgets.php:146
+msgid "groffer - Contact + Social links"
+msgstr ""
+
+#: inc/widgets/widgets.php:146
+msgid "groffer - Contact information + Social icons"
+msgstr ""
+
+#: inc/widgets/widgets.php:263
+msgid "groffer - Contact"
+msgstr ""
+
+#: inc/widgets/widgets.php:263
+msgid "groffer - Contact information"
+msgstr ""
+
+#: inc/widgets/widgets.php:301
+msgid "Contact information"
+msgstr ""
+
+#: inc/widgets/widgets.php:310
+msgid "Contact information must be set from groffer - Theme Panel."
+msgstr ""
+
+#: inc/widgets/widgets.php:335
+msgid "groffer - Recent Posts with thumbnails"
+msgstr ""
+
+#: inc/widgets/widgets.php:401
+msgid "Recent posts"
+msgstr ""
+
+#: inc/widgets/widgets.php:418 inc/widgets/widgets.php:539
+msgid "Number of posts:"
+msgstr ""
+
+#: inc/widgets/widgets.php:456
+msgid "groffer - Post thumbnails slider"
+msgstr ""
+
+#: inc/widgets/widgets.php:522
+msgid "Post thumbnails slider"
+msgstr ""

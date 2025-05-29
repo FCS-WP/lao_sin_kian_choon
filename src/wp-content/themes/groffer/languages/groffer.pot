@@ -1,0 +1,2394 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#: redux-framework/groffer-config.php:2634
+#: redux-framework/groffer-config.php:2635
+#: redux-framework/groffer-config.php:2640
+#: redux-framework/groffer-config.php:2641
+#: redux-framework/groffer-config.php:2645
+#: redux-framework/groffer-config.php:2706
+#: redux-framework/groffer-config.php:2708
+#: redux-framework/groffer-config.php:2712
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-14 15:02+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: 404.php:34 404.php:40 functions.php:461
+msgid "404 Not Found"
+msgstr ""
+
+#: 404.php:36
+msgid ""
+"Sorry! The page you were looking for could not be found. Try searching for "
+"it or browse through our website."
+msgstr ""
+
+#: 404.php:37
+msgid "Back to Home"
+msgstr ""
+
+#: category.php:48
+msgid "Category: "
+msgstr ""
+
+#: comments.php:28 comments.php:70
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:29 comments.php:71
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:30 comments.php:72
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:40
+#, php-format
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr ""
+
+#: comments.php:45
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:85
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:94
+msgid "Leave a comment"
+msgstr ""
+
+#: comments.php:95
+#, php-format
+msgid "Leave a reply to %s"
+msgstr ""
+
+#: comments.php:96
+msgid "Cancel reply"
+msgstr ""
+
+#: comments.php:97
+msgid "Add comment"
+msgstr ""
+
+#: comments.php:100
+msgid "Comment"
+msgstr ""
+
+#: comments.php:106
+msgid "You must be "
+msgstr ""
+
+#: comments.php:106
+msgid "logged in"
+msgstr ""
+
+#: comments.php:106
+msgid "to post a comment."
+msgstr ""
+
+#: comments.php:112
+msgid "Logged in as "
+msgstr ""
+
+#: comments.php:112
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:112
+msgid "Log out?"
+msgstr ""
+
+#: comments.php:124
+msgid "Your comment"
+msgstr ""
+
+#: comments.php:130
+msgid "Your name"
+msgstr ""
+
+#: comments.php:134
+msgid "Your email"
+msgstr ""
+
+#: comments.php:138
+msgid "Your website"
+msgstr ""
+
+#: content-none.php:14
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:18 content-none.php:24
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:20
+msgid "Try to search using another term via the form above"
+msgstr ""
+
+#: content-none.php:25
+msgid "Try to search for posts via the form above"
+msgstr ""
+
+#: content-none.php:30
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content-page.php:17 content-single.php:90 content-template-2.php:54
+#: content-template-2.php:102 content.php:74 content.php:122
+msgid "Pages:"
+msgstr ""
+
+#: content-single.php:99
+msgid "Tags:"
+msgstr ""
+
+#: content-template-2.php:61 content-template-2.php:109 content.php:81
+#: content.php:129
+msgid "Read More"
+msgstr ""
+
+#: footer.php:205
+msgid "Copyright by ModelTheme. All Rights Reserved."
+msgstr ""
+
+#: functions.php:48
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:53
+msgid "Right Side Menu"
+msgstr ""
+
+#: functions.php:61
+msgid "Category Menu"
+msgstr ""
+
+#: functions.php:101
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:103
+msgid "Sidebar 1"
+msgstr ""
+
+#: functions.php:111
+msgid "WooCommerce sidebar"
+msgstr ""
+
+#: functions.php:113
+msgid "Used on WooCommerce pages"
+msgstr ""
+
+#: functions.php:144
+msgid "Footer Row 1, Sidebar "
+msgstr ""
+
+#: functions.php:146 functions.php:162 functions.php:179
+msgid "Footer sidebar to show widgets by different column grid."
+msgstr ""
+
+#: functions.php:160
+msgid "Footer Row 2, Sidebar "
+msgstr ""
+
+#: functions.php:177
+msgid "Footer Row 3, Sidebar "
+msgstr ""
+
+#: functions.php:378
+msgid "Home"
+msgstr ""
+
+#: functions.php:408 functions.php:411
+msgid "Shop"
+msgstr ""
+
+#: functions.php:466
+msgid "Page"
+msgstr ""
+
+#: functions.php:480 inc/custom-functions.php:380
+msgid "View your shopping cart"
+msgstr ""
+
+#: functions.php:494 inc/custom-functions.php:377
+#, php-format
+msgid "%d"
+msgid_plural "%d"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:508
+msgid "More from Vendor"
+msgstr ""
+
+#: functions.php:559
+msgid "&#171;"
+msgstr ""
+
+#: functions.php:560
+msgid "&#187;"
+msgstr ""
+
+#: functions.php:625
+msgid "Quickview"
+msgstr ""
+
+#: functions.php:662
+msgid "Compare"
+msgstr ""
+
+#: functions.php:755
+msgid "Site Admin"
+msgstr ""
+
+#: functions.php:756
+msgid "Edit Your Profile"
+msgstr ""
+
+#: functions.php:768
+msgid "Log in"
+msgstr ""
+
+#: functions.php:769
+msgid "Login"
+msgstr ""
+
+#: functions.php:771 functions.php:772
+msgid "Log"
+msgstr ""
+
+#: header.php:24
+msgid "Login to Your Account"
+msgstr ""
+
+#: header.php:30
+msgid "Username or Email Address"
+msgstr ""
+
+#: header.php:32 header.php:89
+msgid "Username"
+msgstr ""
+
+#: header.php:35 header.php:37 header.php:97
+msgid "Password"
+msgstr ""
+
+#: header.php:43
+msgid "Remember Me"
+msgstr ""
+
+#: header.php:48
+msgid "Log In"
+msgstr ""
+
+#: header.php:53 header.php:105
+msgid "Register"
+msgstr ""
+
+#: header.php:56
+msgid "Registration is currently disabled"
+msgstr ""
+
+#: header.php:61
+msgid "Lost your password?"
+msgstr ""
+
+#: header.php:68 header.php:113
+msgid "OR "
+msgstr ""
+
+#: header.php:77
+msgid "Personal Details"
+msgstr ""
+
+#: header.php:93
+msgid "Email address"
+msgstr ""
+
+#: header.php:100
+msgid "A password will be sent to your email address."
+msgstr ""
+
+#: header.php:107
+msgid "Back to Login"
+msgstr ""
+
+#: index.php:44
+msgid "From the Blog"
+msgstr ""
+
+#: search.php:38
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: tag.php:39
+msgid "Tag: "
+msgstr ""
+
+#: inc/custom-comments.php:68
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/custom-comments.php:77
+msgid "Edit"
+msgstr ""
+
+#: inc/custom-comments.php:117
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/custom-functions.php:281
+msgid "Search"
+msgstr ""
+
+#: inc/custom-functions.php:288
+msgid "Cart"
+msgstr ""
+
+#: inc/custom-functions.php:295
+msgid "Wishlist"
+msgstr ""
+
+#: inc/custom-functions.php:309
+msgid "Account"
+msgstr ""
+
+#: inc/custom-functions.php:327 inc/custom-functions.php:359
+msgid "Header Account"
+msgstr ""
+
+#: inc/custom-functions.php:328
+msgid "Hello,"
+msgstr ""
+
+#: inc/custom-functions.php:329 inc/custom-functions.php:361
+msgid "Account & Lists"
+msgstr ""
+
+#: inc/custom-functions.php:332 templates/header-template2.php:116
+#: templates/header-template3.php:102 templates/header-template7.php:210
+msgid "My Dashboard"
+msgstr ""
+
+#: inc/custom-functions.php:334 inc/custom-functions.php:337
+#: inc/custom-functions.php:343 inc/custom-functions.php:348
+#: templates/header-template2.php:119 templates/header-template2.php:123
+#: templates/header-template2.php:130 templates/header-template2.php:136
+#: templates/header-template3.php:105 templates/header-template3.php:109
+#: templates/header-template3.php:116 templates/header-template3.php:122
+#: templates/header-template7.php:213 templates/header-template7.php:217
+#: templates/header-template7.php:224 templates/header-template7.php:230
+msgid "Vendor Dashboard"
+msgstr ""
+
+#: inc/custom-functions.php:351 templates/header-template2.php:140
+#: templates/header-template3.php:126 templates/header-template7.php:234
+msgid "My Orders"
+msgstr ""
+
+#: inc/custom-functions.php:352 templates/header-template2.php:141
+#: templates/header-template3.php:127 templates/header-template7.php:235
+msgid "Account Details"
+msgstr ""
+
+#: inc/custom-functions.php:354 templates/header-template2.php:143
+#: templates/header-template3.php:129 templates/header-template7.php:237
+msgid "Log Out"
+msgstr ""
+
+#: inc/custom-functions.php:360
+msgid "Hello, Sign in"
+msgstr ""
+
+#: inc/custom-functions.php:376
+msgid "Header Cart"
+msgstr ""
+
+#: inc/custom-functions.php:378
+msgid "My Cart"
+msgstr ""
+
+#: inc/custom-functions.popup.php:31
+msgid "Already a member?"
+msgstr ""
+
+#: inc/custom-functions.popup.php:31
+msgid "Log In."
+msgstr ""
+
+#: inc/custom-functions.woocommerce.php:46
+msgid "Grid view"
+msgstr ""
+
+#: inc/custom-functions.woocommerce.php:47
+msgid "List view"
+msgstr ""
+
+#: inc/custom-functions.woocommerce.php:104
+msgid "Search..."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:393
+#: inc/tgm/class-tgm-plugin-activation.php:912
+#: inc/tgm/class-tgm-plugin-activation.php:2618
+#: inc/tgm/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:394
+#: inc/tgm/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:395
+#: inc/tgm/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:1019
+#: inc/tgm/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:1206
+#: inc/tgm/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2639
+#: redux-framework/groffer-config.php:1282
+#: redux-framework/groffer-config.php:1324
+#: redux-framework/groffer-config.php:1367
+msgid "Status"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3594
+#: inc/tgm/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s done."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm/include_plugins.php:44
+msgid "WPBakery Page Builder"
+msgstr ""
+
+#: inc/tgm/include_plugins.php:54
+msgid "Revolution Slider"
+msgstr ""
+
+#: inc/tgm/include_plugins.php:64
+msgid "ModelTheme Framework"
+msgstr ""
+
+#: inc/tgm/include_plugins.php:74
+msgid "Envato Market"
+msgstr ""
+
+#: inc/tgm/include_plugins.php:82
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/tgm/include_plugins.php:87
+msgid "YITH WooCommerce Wishlist"
+msgstr ""
+
+#: inc/tgm/include_plugins.php:92
+msgid "YITH WooCommerce Compare"
+msgstr ""
+
+#: inc/tgm/include_plugins.php:97
+msgid "Redux Framework"
+msgstr ""
+
+#: inc/tgm/include_plugins.php:102
+msgid "Addons for WPBakery Page Builder"
+msgstr ""
+
+#: inc/tgm/include_plugins.php:107
+msgid "Cryptocurrency Price Ticker Widget"
+msgstr ""
+
+#: inc/tgm/include_plugins.php:112
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/tgm/include_plugins.php:117
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#: inc/tgm/include_plugins.php:122
+msgid "AJAX Login and Registration modal popup + inline form"
+msgstr ""
+
+#: redux-framework/groffer-config.php:98
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#: redux-framework/groffer-config.php:104
+#: redux-framework/groffer-config.php:107
+msgid "Current theme preview"
+msgstr ""
+
+#: redux-framework/groffer-config.php:116
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: redux-framework/groffer-config.php:117
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: redux-framework/groffer-config.php:118
+msgid "Tags"
+msgstr ""
+
+#: redux-framework/groffer-config.php:123
+#, php-format
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+
+#: redux-framework/groffer-config.php:123
+msgid "http://codex.WordPress.org/Child_Themes"
+msgstr ""
+
+#: redux-framework/groffer-config.php:148
+msgid "General Settings"
+msgstr ""
+
+#: redux-framework/groffer-config.php:154
+#: redux-framework/groffer-config.php:165
+msgid "Breadcrumbs"
+msgstr ""
+
+#: redux-framework/groffer-config.php:160
+msgid "<h3>Breadcrumbs</h3>"
+msgstr ""
+
+#: redux-framework/groffer-config.php:166
+msgid "Enable or disable breadcrumbs"
+msgstr ""
+
+#: redux-framework/groffer-config.php:172
+msgid "Breadcrumbs delimitator"
+msgstr ""
+
+#: redux-framework/groffer-config.php:173
+msgid ""
+"This is a little space under the Field Title in the Options table, "
+"additional info is good in here."
+msgstr ""
+
+#: redux-framework/groffer-config.php:174
+msgid "This is the description field, again good for additional info."
+msgstr ""
+
+#: redux-framework/groffer-config.php:182
+#: redux-framework/groffer-config.php:193
+msgid "Dark Mode"
+msgstr ""
+
+#: redux-framework/groffer-config.php:188
+msgid "<h3>Dark Mode</h3>"
+msgstr ""
+
+#: redux-framework/groffer-config.php:194
+msgid "Enable or disable Dark Mode"
+msgstr ""
+
+#: redux-framework/groffer-config.php:201
+msgid "Note:"
+msgstr ""
+
+#: redux-framework/groffer-config.php:203
+msgid ""
+"This dropdown will enable or disable the <strong>Dark Mode</strong> styling "
+"across your website. This is only applied to archive pages, blog and single "
+"templates. Other pages that are editable with WP Bakery have separate color "
+"settings. "
+msgstr ""
+
+#: redux-framework/groffer-config.php:210
+#: redux-framework/groffer-config.php:222
+msgid "Sidebars"
+msgstr ""
+
+#: redux-framework/groffer-config.php:217
+msgid "<h3>Generate Unlimited Sidebars</h3>"
+msgstr ""
+
+#: redux-framework/groffer-config.php:223
+msgid "Use the \"Add More\" button to create unlimited sidebars."
+msgstr ""
+
+#: redux-framework/groffer-config.php:224
+msgid "Add one more Sidebar"
+msgstr ""
+
+#: redux-framework/groffer-config.php:234
+msgid "Styling Settings"
+msgstr ""
+
+#: redux-framework/groffer-config.php:240
+msgid "Colors"
+msgstr ""
+
+#: redux-framework/groffer-config.php:246
+msgid "<h3>Links Colors(Regular, Hover, Active/Visited)</h3>"
+msgstr ""
+
+#: redux-framework/groffer-config.php:251
+msgid "Links Color Option"
+msgstr ""
+
+#: redux-framework/groffer-config.php:252
+msgid ""
+"Only color validation can be done on this field type(Default Regular:"
+"#F29202; Default Hover: #F29202; Default Active: #484848;)"
+msgstr ""
+
+#: redux-framework/groffer-config.php:264
+msgid "<h3>Main Colors & Backgrounds</h3>"
+msgstr ""
+
+#: redux-framework/groffer-config.php:269
+msgid "Main texts color"
+msgstr ""
+
+#: redux-framework/groffer-config.php:270
+#: redux-framework/groffer-config.php:278
+#: redux-framework/groffer-config.php:321
+#: redux-framework/groffer-config.php:410
+msgid "Default: #F29202"
+msgstr ""
+
+#: redux-framework/groffer-config.php:277
+msgid "Main background color"
+msgstr ""
+
+#: redux-framework/groffer-config.php:285
+msgid "Main background color (hover)"
+msgstr ""
+
+#: redux-framework/groffer-config.php:286
+#: redux-framework/groffer-config.php:313
+#: redux-framework/groffer-config.php:337
+#: redux-framework/groffer-config.php:1150
+msgid "Default: #ffffff"
+msgstr ""
+
+#: redux-framework/groffer-config.php:293
+msgid "Semitransparent blocks background"
+msgstr ""
+
+#: redux-framework/groffer-config.php:307
+msgid "<h3>Text Selection Color & Background</h3>"
+msgstr ""
+
+#: redux-framework/groffer-config.php:312
+msgid "Text selection color"
+msgstr ""
+
+#: redux-framework/groffer-config.php:320
+msgid "Text selection background color"
+msgstr ""
+
+#: redux-framework/groffer-config.php:331
+msgid "<h3>Menus Styling</h3>"
+msgstr ""
+
+#: redux-framework/groffer-config.php:336
+msgid "Nav Menu Text Color"
+msgstr ""
+
+#: redux-framework/groffer-config.php:355
+msgid "Nav Menu Text Color on hover"
+msgstr ""
+
+#: redux-framework/groffer-config.php:356
+msgid "Default: #fff"
+msgstr ""
+
+#: redux-framework/groffer-config.php:371
+msgid "<h3>Submenus Styling</h3>"
+msgstr ""
+
+#: redux-framework/groffer-config.php:376
+msgid "Nav Submenu Background Color"
+msgstr ""
+
+#: redux-framework/groffer-config.php:377
+#: redux-framework/groffer-config.php:399
+msgid "Default: #FFF"
+msgstr ""
+
+#: redux-framework/groffer-config.php:387
+msgid "Nav Submenu Text Color"
+msgstr ""
+
+#: redux-framework/groffer-config.php:388
+msgid "Default: #484848"
+msgstr ""
+
+#: redux-framework/groffer-config.php:398
+#: redux-framework/groffer-config.php:409
+msgid "Nav Submenu Hover Background Color"
+msgstr ""
+
+#: redux-framework/groffer-config.php:423
+msgid "Typography"
+msgstr ""
+
+#: redux-framework/groffer-config.php:429
+msgid "<h3>Import Google Fonts</h3>"
+msgstr ""
+
+#: redux-framework/groffer-config.php:435
+msgid "Import Google Font Globally"
+msgstr ""
+
+#: redux-framework/groffer-config.php:436
+msgid "Select one or multiple fonts"
+msgstr ""
+
+#: redux-framework/groffer-config.php:437
+msgid "Importing fonts made easy"
+msgstr ""
+
+#: redux-framework/groffer-config.php:447
+msgid "<h3>Set the main site font</h3>"
+msgstr ""
+
+#: redux-framework/groffer-config.php:452
+msgid "Body Font family"
+msgstr ""
+
+#: redux-framework/groffer-config.php:474
+msgid "<h3>Headings</h3>"
+msgstr ""
+
+#: redux-framework/groffer-config.php:479
+msgid "Heading H1 Font family"
+msgstr ""
+
+#: redux-framework/groffer-config.php:502
+msgid "Heading H2 Font family"
+msgstr ""
+
+#: redux-framework/groffer-config.php:525
+msgid "Heading H3 Font family"
+msgstr ""
+
+#: redux-framework/groffer-config.php:548
+msgid "Heading H4 Font family"
+msgstr ""
+
+#: redux-framework/groffer-config.php:571
+msgid "Heading H5 Font family"
+msgstr ""
+
+#: redux-framework/groffer-config.php:594
+msgid "Heading H6 Font family"
+msgstr ""
+
+#: redux-framework/groffer-config.php:618
+msgid "<h3>Inputs & Textareas Font family</h3>"
+msgstr ""
+
+#: redux-framework/groffer-config.php:623
+msgid "Inputs Font family"
+msgstr ""
+
+#: redux-framework/groffer-config.php:636
+msgid "Font family for inputs and textareas"
+msgstr ""
+
+#: redux-framework/groffer-config.php:646
+msgid "<h3>Buttons Font family</h3>"
+msgstr ""
+
+#: redux-framework/groffer-config.php:651
+msgid "Buttons Font family"
+msgstr ""
+
+#: redux-framework/groffer-config.php:666
+msgid "Font family for buttons"
+msgstr ""
+
+#: redux-framework/groffer-config.php:680
+msgid "Custom CSS"
+msgstr ""
+
+#: redux-framework/groffer-config.php:686
+msgid "<h3>Custom CSS</h3>"
+msgstr ""
+
+#: redux-framework/groffer-config.php:691
+msgid "CSS Code"
+msgstr ""
+
+#: redux-framework/groffer-config.php:692
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: redux-framework/groffer-config.php:707
+msgid "Header Settings"
+msgstr ""
+
+#: redux-framework/groffer-config.php:713
+msgid "<h3>Header Variant</h3>"
+msgstr ""
+
+#: redux-framework/groffer-config.php:719
+msgid "Select Header layout"
+msgstr ""
+
+#: redux-framework/groffer-config.php:756
+msgid "Header 1 Custom Background (Menu bar)"
+msgstr ""
+
+#: redux-framework/groffer-config.php:762
+msgid "Navigation background"
+msgstr ""
+
+#: redux-framework/groffer-config.php:763
+msgid "Override the Navigation background with color."
+msgstr ""
+
+#: redux-framework/groffer-config.php:771
+msgid "Header 2 Custom Top & Bottom Header Background"
+msgstr ""
+
+#: redux-framework/groffer-config.php:777
+#: redux-framework/groffer-config.php:796
+#: redux-framework/groffer-config.php:870
+msgid "Main Header - background color"
+msgstr ""
+
+#: redux-framework/groffer-config.php:778
+msgid "This color is only available when using Header 2"
+msgstr ""
+
+#: redux-framework/groffer-config.php:790
+msgid "Header 3 Custom Top & Bottom Header Background"
+msgstr ""
+
+#: redux-framework/groffer-config.php:797
+#: redux-framework/groffer-config.php:808
+msgid "This color is only available when using Header 3"
+msgstr ""
+
+#: redux-framework/groffer-config.php:807
+msgid "Color Links (not navigation)"
+msgstr ""
+
+#: redux-framework/groffer-config.php:817
+msgid "Header 4"
+msgstr ""
+
+#: redux-framework/groffer-config.php:823
+msgid "Disable Top Bar Header 4"
+msgstr ""
+
+#: redux-framework/groffer-config.php:824
+#: redux-framework/groffer-config.php:928
+msgid "Enable or disable the Top Bar Header"
+msgstr ""
+
+#: redux-framework/groffer-config.php:831
+#: redux-framework/groffer-config.php:888
+#: redux-framework/groffer-config.php:935
+#: redux-framework/groffer-config.php:1226
+msgid "Button Link"
+msgstr ""
+
+#: redux-framework/groffer-config.php:832
+#: redux-framework/groffer-config.php:889
+#: redux-framework/groffer-config.php:936
+msgid "Enter button link"
+msgstr ""
+
+#: redux-framework/groffer-config.php:839
+#: redux-framework/groffer-config.php:896
+#: redux-framework/groffer-config.php:943
+#: redux-framework/groffer-config.php:1233
+msgid "Button Background"
+msgstr ""
+
+#: redux-framework/groffer-config.php:840
+#: redux-framework/groffer-config.php:852
+#: redux-framework/groffer-config.php:897
+#: redux-framework/groffer-config.php:909
+#: redux-framework/groffer-config.php:944
+#: redux-framework/groffer-config.php:956
+msgid "Enter button color"
+msgstr ""
+
+#: redux-framework/groffer-config.php:851
+#: redux-framework/groffer-config.php:908
+#: redux-framework/groffer-config.php:955
+msgid "Button Color"
+msgstr ""
+
+#: redux-framework/groffer-config.php:864
+msgid "Header 5 Custom Navigation Header Background"
+msgstr ""
+
+#: redux-framework/groffer-config.php:871
+msgid "This color is only available when using Header 5"
+msgstr ""
+
+#: redux-framework/groffer-config.php:882
+msgid "Header 6 General Options"
+msgstr ""
+
+#: redux-framework/groffer-config.php:921
+msgid "Header 7"
+msgstr ""
+
+#: redux-framework/groffer-config.php:927
+msgid "Disable Top Bar Header 7"
+msgstr ""
+
+#: redux-framework/groffer-config.php:967
+msgid "Fixed Navigation menu?"
+msgstr ""
+
+#: redux-framework/groffer-config.php:968
+msgid "Enable or disable \"fixed positioned navigation menu\"."
+msgstr ""
+
+#: redux-framework/groffer-config.php:974
+msgid "Order Traking Url"
+msgstr ""
+
+#: redux-framework/groffer-config.php:975
+msgid ""
+"A link to a page where the shortcode \"[woocommerce_order_tracking]\" is "
+"added. It will show the order tracking form."
+msgstr ""
+
+#: redux-framework/groffer-config.php:981
+msgid "Category menu enabled?"
+msgstr ""
+
+#: redux-framework/groffer-config.php:982
+msgid "Enable or disable \"category navigation menu\"."
+msgstr ""
+
+#: redux-framework/groffer-config.php:988
+msgid "Language Switcher Dropdown"
+msgstr ""
+
+#: redux-framework/groffer-config.php:989
+msgid "Enable or disable \"Language Switcher Dropdown\"."
+msgstr ""
+
+#: redux-framework/groffer-config.php:995
+msgid ""
+"Note: The language switcher will be only listed if WPML plugin is installed "
+"and properly configured (more than one language enabled on the site). If you "
+"are using other translation plugin or language switcher plugin, the active "
+"header template needs to be manually modified in order to add the switcher. "
+"(Available Hook for header top bar: \"groffer_add_language_selector\")"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1001
+msgid "Right menu enabled?"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1002
+msgid "Enable or disable \"Right navigation menu\"."
+msgstr ""
+
+#: redux-framework/groffer-config.php:1008
+msgid "Currency Switcher Dropdown"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1009
+msgid "Enable or disable \"Currency Switcher Dropdown\"."
+msgstr ""
+
+#: redux-framework/groffer-config.php:1015
+msgid ""
+"Note: The currency switcher will be only listed if WOOCS - WooCommerce "
+"Currency Switcher plugin is installed and properly configured (more than one "
+"currency enabled on the site). If you are using other currency switcher "
+"plugin, the active header template needs to be manually modified in order to "
+"add the switcher."
+msgstr ""
+
+#: redux-framework/groffer-config.php:1021
+msgid "Icon Groups on Top Header (Mobile only)"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1022
+msgid "Enable or disable the Icon Group on Top Header."
+msgstr ""
+
+#: redux-framework/groffer-config.php:1028
+msgid "Search Icon Groups on Top Header (Mobile only)"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1029
+msgid "Enable or disable the Search Icon Group on Top Header."
+msgstr ""
+
+#: redux-framework/groffer-config.php:1036
+msgid "Cart Icon Groups on Top Header (Mobile only)"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1037
+msgid "Enable or disable the Cart Icon Group on Top Header."
+msgstr ""
+
+#: redux-framework/groffer-config.php:1044
+msgid "Wishlist Icon Groups on Top Header (Mobile only)"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1045
+msgid "Enable or disable the Wishlist Icon Group on Top Header."
+msgstr ""
+
+#: redux-framework/groffer-config.php:1052
+msgid "Icon Groups on Sticky Footer (Mobile only)"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1053
+msgid "Enable or disable the Icon Group on Sticky Footer."
+msgstr ""
+
+#: redux-framework/groffer-config.php:1059
+msgid "Search Icon Groups on Sticky Footer (Mobile only)"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1060
+msgid "Enable or disable the Search Icon Group on Sticky Footer."
+msgstr ""
+
+#: redux-framework/groffer-config.php:1067
+msgid "Cart Icon Groups on Sticky Footer (Mobile only)"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1068
+msgid "Enable or disable the Cart Icon Group on Sticky Footer."
+msgstr ""
+
+#: redux-framework/groffer-config.php:1075
+msgid "Wishlist Icon Groups on Sticky Footer (Mobile only)"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1076
+msgid "Enable or disable the Wishlist Icon Group on Sticky Footer."
+msgstr ""
+
+#: redux-framework/groffer-config.php:1083
+msgid "Account Icon Groups on Sticky Footer (Mobile only)"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1084
+msgid "Enable or disable the Account Icon Group on Sticky Footer."
+msgstr ""
+
+#: redux-framework/groffer-config.php:1092
+msgid "<h3>Search Settings</h3>"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1097
+msgid "Search form for:"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1098
+msgid ""
+"Select the scope of the header search form(Search for PRODUCTS or POSTS)."
+msgstr ""
+
+#: redux-framework/groffer-config.php:1109
+msgid "<h3>Logo & Favicon Settings</h3>"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1115
+msgid "Logo as image"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1122
+msgid "Logo Max Width"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1123
+msgid "Use the slider to increase/decrease max size of the logo."
+msgstr ""
+
+#: redux-framework/groffer-config.php:1124
+msgid "Min: 1px, max: 500px, step: 1px, default value: 140px"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1135
+msgid "Favicon url"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1137
+msgid "Use the upload button to import media."
+msgstr ""
+
+#: redux-framework/groffer-config.php:1144
+msgid "<h3>Header Styling Settings</h3>"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1149
+msgid "Category 2 Background color"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1160
+msgid "Header (top small bar) - background"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1161
+#: redux-framework/groffer-config.php:1171
+#: redux-framework/groffer-config.php:1194
+msgid "Header background with image or color."
+msgstr ""
+
+#: redux-framework/groffer-config.php:1170
+msgid "Header (main-header) - background"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1181
+msgid "<h3>Top Header Information Settings</h3>"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1186
+msgid "Header Discount Block"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1187
+msgid "Enable or disable the Header Discount Block."
+msgstr ""
+
+#: redux-framework/groffer-config.php:1193
+msgid "Header Discount Background"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1205
+msgid "Header Discount Text"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1212
+msgid "Header Discount Expiration Date"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1219
+msgid "Button Text"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1247
+msgid "Footer Settings"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1252
+msgid "Footer Top"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1257
+msgid "Footer (top) - background"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1258
+#: redux-framework/groffer-config.php:1431
+msgid "Footer background with image or color."
+msgstr ""
+
+#: redux-framework/groffer-config.php:1268
+msgid "Footer (top) - color text"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1269
+#: redux-framework/groffer-config.php:1441
+msgid "Footer text color."
+msgstr ""
+
+#: redux-framework/groffer-config.php:1277
+msgid "<h3>Footer Widgets (Row #1)</h3>"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1288
+msgid "Footer Widgets Row #1 - Number of columns"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1307
+msgid "Footer Widgets Row #1 - Padding"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1319
+msgid "<h3>Footer Widgets (Row #2)</h3>"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1330
+msgid "Footer Widgets Row #2 - Number of columns"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1349
+msgid "Footer Widgets Row #2 - Padding"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1362
+msgid "<h3>Footer Widgets (Row #3)</h3>"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1373
+msgid "Footer Widgets Row #3 - Number of columns"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1392
+msgid "Footer Widgets Row #3 - Padding"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1406
+msgid "Footer Bottom (Copyright)"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1411
+msgid "Footer Text Left"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1417
+msgid "Footer card icons"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1430
+msgid "Footer (bottom) - background"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1440
+msgid "Footer (bottom) - texts color"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1448
+msgid "Footer (bottom) - links color"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1449
+msgid "Footer links color."
+msgstr ""
+
+#: redux-framework/groffer-config.php:1456
+msgid "Footer (bottom) - icons color"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1457
+msgid "Footer icons."
+msgstr ""
+
+#: redux-framework/groffer-config.php:1468
+msgid "Back to Top"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1474
+msgid "<h3>Back to Top Settings</h3>"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1479
+msgid "Back to Top Button Status"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1480
+msgid "Enable or disable \"Back to Top Button\""
+msgstr ""
+
+#: redux-framework/groffer-config.php:1486
+msgid "Back to Top Button Status Backgrond"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1487
+msgid "Default: #2695FF"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1504
+msgid "Contact Settings"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1509
+msgid "Phone Number"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1510
+msgid "Contact phone number displayed on the contact us page."
+msgstr ""
+
+#: redux-framework/groffer-config.php:1517
+msgid "Email"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1518
+msgid ""
+"Contact email displayed on the contact us page., additional info is good in "
+"here."
+msgstr ""
+
+#: redux-framework/groffer-config.php:1526
+msgid "Program"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1527
+msgid "Enter your work program"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1533
+msgid "Address"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1534
+msgid "Enter your contact address"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1543
+msgid "Popup Settings"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1548
+msgid "Popup"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1549
+msgid "Enable or disable popup"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1556
+msgid "<h3>Popup Design</h3>"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1562
+msgid "Popup Image"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1563
+msgid "Set your popup image"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1570
+msgid "Your Company Logo"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1571
+msgid "Set your company logo"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1578
+msgid "Subtitle Description"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1579
+#: redux-framework/groffer-config.php:1586
+msgid "Write a few words as description"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1585
+msgid "Custom Form Shortcode"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1595
+msgid "Disable Login message?"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1596
+msgid "Enable or disable Login message."
+msgstr ""
+
+#: redux-framework/groffer-config.php:1603
+msgid "<h3>Popup Settings</h3>"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1608
+msgid "Expiring Cookie"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1609
+msgid "Select the days for when the cookies to expire."
+msgstr ""
+
+#: redux-framework/groffer-config.php:1622
+msgid "Show Popup"
+msgstr ""
+
+#: redux-framework/groffer-config.php:1623
+msgid "Select a specific time to show the popup."
+msgstr ""
+
+#: redux-framework/groffer-config.php:2104
+msgid "Blog Settings"
+msgstr ""
+
+#: redux-framework/groffer-config.php:2110
+msgid "<h3>Blog Archive Layout</h3>"
+msgstr ""
+
+#: redux-framework/groffer-config.php:2116
+msgid "Blog List Layout"
+msgstr ""
+
+#: redux-framework/groffer-config.php:2117
+msgid "Select Blog List layout."
+msgstr ""
+
+#: redux-framework/groffer-config.php:2138
+msgid "Blog List Sidebar"
+msgstr ""
+
+#: redux-framework/groffer-config.php:2139
+msgid "Select Blog List Sidebar."
+msgstr ""
+
+#: redux-framework/groffer-config.php:2146
+msgid "Grid columns"
+msgstr ""
+
+#: redux-framework/groffer-config.php:2147
+msgid "Select how many columns you want."
+msgstr ""
+
+#: redux-framework/groffer-config.php:2160
+msgid "<h3>Blog Single Article Layout</h3>"
+msgstr ""
+
+#: redux-framework/groffer-config.php:2166
+msgid "Single Blog Layout"
+msgstr ""
+
+#: redux-framework/groffer-config.php:2167
+msgid "Select Single Blog Layout."
+msgstr ""
+
+#: redux-framework/groffer-config.php:2188
+msgid "Single Blog Sidebar"
+msgstr ""
+
+#: redux-framework/groffer-config.php:2189
+msgid "Select Single Blog Sidebar."
+msgstr ""
+
+#: redux-framework/groffer-config.php:2198
+msgid "<h3>Blog Single Article Typography</h3>"
+msgstr ""
+
+#: redux-framework/groffer-config.php:2203
+msgid "Blog Post Font family"
+msgstr ""
+
+#: redux-framework/groffer-config.php:2228
+msgid "Enable/disable featured image for single post."
+msgstr ""
+
+#: redux-framework/groffer-config.php:2229
+msgid "Show or Hide the featured image from blog post page.\"."
+msgstr ""
+
+#: redux-framework/groffer-config.php:2239
+msgid "Shop Settings"
+msgstr ""
+
+#: redux-framework/groffer-config.php:2245
+msgid "Shop Archives"
+msgstr ""
+
+#: redux-framework/groffer-config.php:2251
+msgid "<h3>Shop Archives</h3>"
+msgstr ""
+
+#: redux-framework/groffer-config.php:2257
+msgid "Shop List Products Layout"
+msgstr ""
+
+#: redux-framework/groffer-config.php:2258
+msgid "Select Shop List Products layout."
+msgstr ""
+
+#: redux-framework/groffer-config.php:2279
+msgid "Grid / List default"
+msgstr ""
+
+#: redux-framework/groffer-config.php:2280
+msgid "Choose which format products should display in by default."
+msgstr ""
+
+#: redux-framework/groffer-config.php:2282
+msgid "Grid"
+msgstr ""
+
+#: redux-framework/groffer-config.php:2283
+msgid "List"
+msgstr ""
+
+#: redux-framework/groffer-config.php:2292
+msgid "Shop List Sidebar"
+msgstr ""
+
+#: redux-framework/groffer-config.php:2293
+#: redux-framework/groffer-config.php:2377
+msgid "Select Shop List Sidebar."
+msgstr ""
+
+#: redux-framework/groffer-config.php:2300
+msgid "Number of shop columns"
+msgstr ""
+
+#: redux-framework/groffer-config.php:2301
+msgid "Number of products per column to show on shop list template."
+msgstr ""
+
+#: redux-framework/groffer-config.php:2312
+msgid "Enable Client Slider"
+msgstr ""
+
+#: redux-framework/groffer-config.php:2313
+msgid "Enable or disable Client Slider"
+msgstr ""
+
+#: redux-framework/groffer-config.php:2319
+msgid "Contain Products on Grid"
+msgstr ""
+
+#: redux-framework/groffer-config.php:2320
+msgid "Enable or disable extra padding for grid"
+msgstr ""
+
+#: redux-framework/groffer-config.php:2330
+msgid "Product Single"
+msgstr ""
+
+#: redux-framework/groffer-config.php:2336
+msgid "<h3>Product Page</h3>"
+msgstr ""
+
+#: redux-framework/groffer-config.php:2341
+msgid "Select Single Product layout"
+msgstr ""
+
+#: redux-framework/groffer-config.php:2342
+msgid "Unique layout to show on single product template."
+msgstr ""
+
+#: redux-framework/groffer-config.php:2354
+msgid "Single Product Layout"
+msgstr ""
+
+#: redux-framework/groffer-config.php:2355
+msgid "Select Single Product Layout."
+msgstr ""
+
+#: redux-framework/groffer-config.php:2376
+msgid "Shop Single Product Sidebar"
+msgstr ""
+
+#: redux-framework/groffer-config.php:2384
+msgid "Related Products"
+msgstr ""
+
+#: redux-framework/groffer-config.php:2385
+msgid "Enable or disable related products on single product"
+msgstr ""
+
+#: redux-framework/groffer-config.php:2391
+msgid "Number of related products"
+msgstr ""
+
+#: redux-framework/groffer-config.php:2392
+msgid "Number of related products to show on single product template."
+msgstr ""
+
+#: redux-framework/groffer-config.php:2404
+msgid "General Information"
+msgstr ""
+
+#: redux-framework/groffer-config.php:2405
+msgid "Enable or disable General Information on single product"
+msgstr ""
+
+#: redux-framework/groffer-config.php:2412
+msgid "First Icon"
+msgstr ""
+
+#: redux-framework/groffer-config.php:2419
+msgid "First Block"
+msgstr ""
+
+#: redux-framework/groffer-config.php:2420
+#: redux-framework/groffer-config.php:2435
+#: redux-framework/groffer-config.php:2450
+#: redux-framework/groffer-config.php:2465
+#: redux-framework/groffer-config.php:2487
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisc elit. Duis sollicitudin diam "
+"in diamui varius, sed anim."
+msgstr ""
+
+#: redux-framework/groffer-config.php:2427
+msgid "Second Icon"
+msgstr ""
+
+#: redux-framework/groffer-config.php:2434
+msgid "Second Block"
+msgstr ""
+
+#: redux-framework/groffer-config.php:2442
+msgid "Third Icon"
+msgstr ""
+
+#: redux-framework/groffer-config.php:2449
+msgid "Third Block"
+msgstr ""
+
+#: redux-framework/groffer-config.php:2457
+msgid "Fourth Icon"
+msgstr ""
+
+#: redux-framework/groffer-config.php:2464
+msgid "Fourth Block"
+msgstr ""
+
+#: redux-framework/groffer-config.php:2471
+msgid "Contact Information"
+msgstr ""
+
+#: redux-framework/groffer-config.php:2472
+msgid "Enable or disable Contact Information on single product"
+msgstr ""
+
+#: redux-framework/groffer-config.php:2479
+msgid "Contact Icon"
+msgstr ""
+
+#: redux-framework/groffer-config.php:2486
+msgid "Contact Block"
+msgstr ""
+
+#: redux-framework/groffer-config.php:2497
+msgid "Social Media Settings"
+msgstr ""
+
+#: redux-framework/groffer-config.php:2502
+msgid "Facebook URL"
+msgstr ""
+
+#: redux-framework/groffer-config.php:2503
+msgid "Type your Facebook url."
+msgstr ""
+
+#: redux-framework/groffer-config.php:2510
+msgid "Twitter username"
+msgstr ""
+
+#: redux-framework/groffer-config.php:2511
+msgid "Type your Twitter username."
+msgstr ""
+
+#: redux-framework/groffer-config.php:2517
+msgid "Pinterest URL"
+msgstr ""
+
+#: redux-framework/groffer-config.php:2518
+msgid "Type your Pinterest url."
+msgstr ""
+
+#: redux-framework/groffer-config.php:2525
+msgid "Skype Name"
+msgstr ""
+
+#: redux-framework/groffer-config.php:2526
+msgid "Type your Skype username."
+msgstr ""
+
+#: redux-framework/groffer-config.php:2532
+msgid "Instagram URL"
+msgstr ""
+
+#: redux-framework/groffer-config.php:2533
+msgid "Type your Instagram url."
+msgstr ""
+
+#: redux-framework/groffer-config.php:2540
+msgid "YouTube URL"
+msgstr ""
+
+#: redux-framework/groffer-config.php:2541
+msgid "Type your YouTube url."
+msgstr ""
+
+#: redux-framework/groffer-config.php:2548
+msgid "Dribbble URL"
+msgstr ""
+
+#: redux-framework/groffer-config.php:2549
+msgid "Type your Dribbble url."
+msgstr ""
+
+#: redux-framework/groffer-config.php:2556
+msgid "Google+ URL"
+msgstr ""
+
+#: redux-framework/groffer-config.php:2557
+msgid "Type your Google+ url."
+msgstr ""
+
+#: redux-framework/groffer-config.php:2564
+msgid "LinkedIn URL"
+msgstr ""
+
+#: redux-framework/groffer-config.php:2565
+msgid "Type your LinkedIn url."
+msgstr ""
+
+#: redux-framework/groffer-config.php:2572
+msgid "Deviant Art URL"
+msgstr ""
+
+#: redux-framework/groffer-config.php:2573
+msgid "Type your Deviant Art url."
+msgstr ""
+
+#: redux-framework/groffer-config.php:2580
+msgid "Digg URL"
+msgstr ""
+
+#: redux-framework/groffer-config.php:2581
+msgid "Type your Digg url."
+msgstr ""
+
+#: redux-framework/groffer-config.php:2587
+msgid "Flickr URL"
+msgstr ""
+
+#: redux-framework/groffer-config.php:2588
+msgid "Type your Flickr url."
+msgstr ""
+
+#: redux-framework/groffer-config.php:2594
+msgid "Stumbleupon URL"
+msgstr ""
+
+#: redux-framework/groffer-config.php:2595
+msgid "Type your Stumbleupon url."
+msgstr ""
+
+#: redux-framework/groffer-config.php:2601
+msgid "Tumblr URL"
+msgstr ""
+
+#: redux-framework/groffer-config.php:2602
+msgid "Type your Tumblr url."
+msgstr ""
+
+#: redux-framework/groffer-config.php:2608
+msgid "Vimeo URL"
+msgstr ""
+
+#: redux-framework/groffer-config.php:2609
+msgid "Type your Vimeo url."
+msgstr ""
+
+#: redux-framework/groffer-config.php:2617
+msgid "<strong>Theme URL:</strong> "
+msgstr ""
+
+#: redux-framework/groffer-config.php:2618
+msgid "<strong>Author:</strong> "
+msgstr ""
+
+#: redux-framework/groffer-config.php:2619
+msgid "<strong>Version:</strong> "
+msgstr ""
+
+#: redux-framework/groffer-config.php:2623
+msgid "<strong>Tags:</strong> "
+msgstr ""
+
+#: redux-framework/groffer-config.php:2665
+#: redux-framework/groffer-config.php:2666
+msgid "Theme Panel"
+msgstr ""
+
+#: redux-framework/modeltheme-config.responsive.php:4
+msgid "Responsive Typography"
+msgstr ""
+
+#: redux-framework/modeltheme-config.responsive.php:12
+msgid "<h3>Headings Typography on Tablets (Medium Resolution Devices)</h3>"
+msgstr ""
+
+#: redux-framework/modeltheme-config.responsive.php:17
+msgid "Heading H1 Font size - Tablets"
+msgstr ""
+
+#: redux-framework/modeltheme-config.responsive.php:38
+msgid "Heading H2 Font size - Tablets"
+msgstr ""
+
+#: redux-framework/modeltheme-config.responsive.php:59
+msgid "Heading H3 Font size - Tablets"
+msgstr ""
+
+#: redux-framework/modeltheme-config.responsive.php:80
+msgid "Heading H4 Font size - Tablets"
+msgstr ""
+
+#: redux-framework/modeltheme-config.responsive.php:101
+msgid "Heading H5 Font size - Tablets"
+msgstr ""
+
+#: redux-framework/modeltheme-config.responsive.php:122
+msgid "Heading H6 Font size - Tablets"
+msgstr ""
+
+#: redux-framework/modeltheme-config.responsive.php:144
+msgid "<h3>Headings Typography on SmartPhones (Small Resolution Devices)</h3>"
+msgstr ""
+
+#: redux-framework/modeltheme-config.responsive.php:149
+msgid "Heading H1 Font size - Smartphones"
+msgstr ""
+
+#: redux-framework/modeltheme-config.responsive.php:170
+msgid "Heading H2 Font size - Smartphones"
+msgstr ""
+
+#: redux-framework/modeltheme-config.responsive.php:191
+msgid "Heading H3 Font size - Smartphones"
+msgstr ""
+
+#: redux-framework/modeltheme-config.responsive.php:212
+msgid "Heading H4 Font size - Smartphones"
+msgstr ""
+
+#: redux-framework/modeltheme-config.responsive.php:233
+msgid "Heading H5 Font size - Smartphones"
+msgstr ""
+
+#: redux-framework/modeltheme-config.responsive.php:254
+msgid "Heading H6 Font size - Smartphones"
+msgstr ""
+
+#: templates/header-template1.php:58
+msgid "Category"
+msgstr ""
+
+#: templates/header-template1.php:73
+msgid "Search products..."
+msgstr ""
+
+#: templates/header-template1.php:116
+msgid "Shop by"
+msgstr ""
+
+#: templates/header-template1.php:117
+msgid "Categories"
+msgstr ""
+
+#: templates/header-template1.php:142
+msgid "Category navigation menu is missing."
+msgstr ""
+
+#: templates/header-template1.php:178 templates/header-template2.php:89
+#: templates/header-template3.php:76 templates/header-template4.php:183
+#: templates/header-template5.php:74 templates/header-template6.php:178
+#: templates/header-template7.php:184
+msgid "Primary navigation menu is missing."
+msgstr ""
+
+#: templates/header-template1.php:212 templates/header-template4.php:86
+#: templates/header-template6.php:86 templates/header-template7.php:89
+msgid "Right Side menu is missing."
+msgstr ""
+
+#: templates/header-template2.php:51
+msgid "I am searching for ..."
+msgstr ""
+
+#: templates/header-template2.php:113 templates/header-template2.php:149
+#: templates/header-template3.php:99 templates/header-template3.php:135
+#: templates/header-template7.php:207
+msgid "My Account"
+msgstr ""
+
+#: templates/header-template4.php:194
+msgid "Get a Quote"
+msgstr ""
+
+#: templates/header-template6.php:192 templates/header-template7.php:193
+msgid "JOIN FREE"
+msgstr ""
+
+#: templates/header-template7.php:243
+msgid "LOG IN"
+msgstr ""
+
+#: woocommerce/add-to-wishlist-button.php:13
+msgid "Add to Wishlist"
+msgstr ""
+
+#: woocommerce/add-to-wishlist-button.php:16
+msgid "loading"
+msgstr ""
+
+#: woocommerce/add-to-wishlist.php:21
+msgid "Add to Wishlist Wishlist"
+msgstr ""
+
+#: woocommerce/add-to-wishlist.php:21
+msgid "Browse Wishlist"
+msgstr ""
+
+#: woocommerce/add-to-wishlist.php:27
+msgid "Check Wishlist"
+msgstr ""
+
+#: woocommerce/content-single-theme.php:64
+msgid "Price"
+msgstr ""
+
+#: woocommerce/content-single-theme.php:69
+msgid "Rating"
+msgstr ""
+
+#: woocommerce/content-single-theme.php:75
+msgid "sales"
+msgstr ""
+
+#: woocommerce/content-single-theme.php:76
+msgid "as of"
+msgstr ""
+
+#: woocommerce/content-single-theme.php:79
+msgid "Purchase"
+msgstr ""
+
+#: woocommerce/content-single-theme.php:110
+msgid "Last Update"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:27
+#: woocommerce/global/quantity-input.php:29
+#, php-format
+msgid "%s quantity"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:29
+#: woocommerce/global/quantity-input.php:32
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:43
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:24
+msgid "Shop order"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:46
+msgid "Awaiting product image"
+msgstr ""
+
+#: woocommerce/single-product/sale-flash.php:20
+msgid "Sale!"
+msgstr ""
