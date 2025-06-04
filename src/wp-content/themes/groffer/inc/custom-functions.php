@@ -357,8 +357,8 @@ if (!function_exists('groffer_my_account_header')) {
     } else {
         echo '<li id="nav-menu-login" class="groffer-logoin">
                 <img src="'.esc_url( get_template_directory_uri().'/images/svg/header-account.svg' ).'" alt="'.esc_attr__('Header Account','groffer').'" />
-                <span class="top-register">'.esc_html__('Hello, Sign in','groffer').'</span>
-                <a href="'.esc_url('#').'" class="lrm-login lrm-hide-if-logged-in">'.esc_html__('Account & Lists','groffer').'';
+                <span class="top-register">'.esc_html__('','groffer').'</span>
+                <a href="'.esc_url('#').'" class="lrm-login lrm-hide-if-logged-in">'.esc_html__('Log In / Sign Up','groffer').'';
                     do_shortcode('[nextend_social_login provider="google"]');
          echo '</a>
            </li>';

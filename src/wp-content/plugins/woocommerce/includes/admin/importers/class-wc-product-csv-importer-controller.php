@@ -5,6 +5,8 @@
  * @package WooCommerce\Admin\Importers
  */
 
+use Automattic\WooCommerce\Internal\Utilities\FilesystemUtil;
+use Automattic\WooCommerce\Internal\Utilities\URL;
 use Automattic\WooCommerce\Utilities\I18nUtil;
 
 if ( ! defined( 'ABSPATH' ) ) {
@@ -112,41 +114,10 @@ class WC_Product_CSV_Importer_Controller {
 	 *
 	 * @throws \Exception When file validation fails.
 	 */
-	protected static function check_file_path( string $path ): void {
-		$is_valid_file = false;
-
-		if ( ! empty( $path ) ) {
-			$path          = realpath( $path );
-			$is_valid_file = false !== $path;
-		}
-
-		// File must be readable.
-		$is_valid_file = $is_valid_file && is_readable( $path );
-
-		// Check that file is within an allowed location.
-		if ( $is_valid_file ) {
-			$normalized_path   = wp_normalize_path( $path );
-			$in_valid_location = false;
-			$valid_locations   = array();
-			$valid_locations[] = ABSPATH;
-
-			$upload_dir = wp_get_upload_dir();
-			if ( false === $upload_dir['error'] ) {
-				$valid_locations[] = $upload_dir['basedir'];
-			}
-
-			foreach ( $valid_locations as $valid_location ) {
-				$normalized_location = wp_normalize_path( realpath( $valid_location ) );
-				if ( 0 === stripos( $normalized_path, trailingslashit( $normalized_location ) ) ) {
-					$in_valid_location = true;
-					break;
-				}
-			}
-
-			$is_valid_file = $in_valid_location;
-		}
-
-		if ( ! $is_valid_file ) {
+	protected static function validate_file_path( string $path ): void {
+		try {
+			FilesystemUtil::validate_upload_file_path( $path );
+		} catch ( \Exception $e ) {
 			throw new \Exception( esc_html__( 'File path provided for import is invalid.', 'woocommerce' ) );
 		}
 
@@ -355,7 +326,7 @@ class WC_Product_CSV_Importer_Controller {
 
 		try {
 			$file = wc_clean( wp_unslash( $_POST['file'] ?? '' ) ); // PHPCS: input var ok.
-			self::check_file_path( $file );
+			self::validate_file_path( $file );
 
 			$params = array(
 				'delimiter'          => ! empty( $_POST['delimiter'] ) ? wc_clean( wp_unslash( $_POST['delimiter'] ) ) : ',', // PHPCS: input var ok.
@@ -503,7 +474,7 @@ class WC_Product_CSV_Importer_Controller {
 		try {
 			if ( ! empty( $file_url ) ) {
 				$path = ABSPATH . $file_url;
-				self::check_file_path( $path );
+				self::validate_file_path( $path );
 			} else {
 				$csv_import_util = wc_get_container()->get( Automattic\WooCommerce\Internal\Admin\ImportExport\CSVUploadHelper::class );
 				$upload          = $csv_import_util->handle_csv_upload( 'product', 'import', self::get_valid_csv_filetypes() );
@@ -521,7 +492,7 @@ class WC_Product_CSV_Importer_Controller {
 	 */
 	protected function mapping_form() {
 		check_admin_referer( 'woocommerce-csv-importer' );
-		self::check_file_path( $this->file );
+		self::validate_file_path( $this->file );
 
 		$args = array(
 			'lines'              => 1,
@@ -560,7 +531,7 @@ class WC_Product_CSV_Importer_Controller {
 		// Displaying this page triggers Ajax action to run the import with a valid nonce,
 		// therefore this page needs to be nonce protected as well.
 		check_admin_referer( 'woocommerce-csv-importer' );
-		self::check_file_path( $this->file );
+		self::validate_file_path( $this->file );
 
 		if ( ! empty( $_POST['map_from'] ) && ! empty( $_POST['map_to'] ) ) {
 			$mapping_from = wc_clean( wp_unslash( $_POST['map_from'] ) );
@@ -812,6 +783,7 @@ class WC_Product_CSV_Importer_Controller {
 			'id'                 => __( 'ID', 'woocommerce' ),
 			'type'               => __( 'Type', 'woocommerce' ),
 			'sku'                => __( 'SKU', 'woocommerce' ),
+			'global_unique_id'   => __( 'GTIN, UPC, EAN, or ISBN', 'woocommerce' ),
 			'name'               => __( 'Name', 'woocommerce' ),
 			'published'          => __( 'Published', 'woocommerce' ),
 			'featured'           => __( 'Is featured?', 'woocommerce' ),
