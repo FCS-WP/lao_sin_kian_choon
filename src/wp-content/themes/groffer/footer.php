@@ -101,7 +101,7 @@ global $groffer_redux;
                             }elseif($groffer_redux['groffer_number_of_footer_columns_row2'] == 5){
                                 #First
                                 if ( is_active_sidebar( 'footer_column_row21' ) ) {
-                                    echo '<div class="col-md-3 widget widget_text">';
+                                    echo '<div class="col-md-4 widget widget_text">';
                                         dynamic_sidebar( 'footer_column_row21' );
                                     echo '</div>';
                                 }
@@ -125,7 +125,7 @@ global $groffer_redux;
                                 }
                                 #Fifth
                                 if ( is_active_sidebar( 'footer_column_row25' ) ) {
-                                    echo '<div class="col-md-3 widget widget_text">';
+                                    echo '<div class="col-md-4 widget widget_text">';
                                         dynamic_sidebar( 'footer_column_row25' );
                                     echo '</div>';
                                 }
