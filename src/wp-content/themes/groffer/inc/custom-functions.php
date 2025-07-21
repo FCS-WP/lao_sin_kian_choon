@@ -378,7 +378,6 @@ if (!function_exists('groffer_my_cart_header')) {
             <a  class="shop_cart" href="'.esc_url($cart_url).'">'.esc_html__('My Cart', 'groffer').'</a>
 
             <a class="cart-contents" href="'.esc_url(wc_get_cart_url()).'" title="'.esc_attr__( 'View your shopping cart', 'groffer').'">'.WC()->cart->get_cart_total().'</a>
-                
             <div class="header_mini_cart">';
             	the_widget( 'WC_Widget_Cart' );
             echo '</div>';
